@@ -1,0 +1,196 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 10.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      5677,        188]
+NotebookOptionsPosition[      4845,        157]
+NotebookOutlinePosition[      5247,        173]
+CellTagsIndexPosition[      5204,        170]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{"f", "[", "x_", "]"}], ":=", 
+   RowBox[{"5", 
+    RowBox[{"Cos", "[", 
+     RowBox[{
+      RowBox[{"2", "x"}], "+", "1"}], "]"}]}]}], ";"}]], "Input",
+ CellChangeTimes->{{3.887724620637353*^9, 3.887724644576271*^9}, {
+  3.888985233936555*^9, 3.8889852350995226`*^9}, {3.890192808459594*^9, 
+  3.890192842342621*^9}, {3.8901937667075014`*^9, 3.8901937680074625`*^9}},
+ ExpressionUUID -> "f6951edd-5a94-4470-8f6e-e66bdd7df673"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"g", "[", "x_", "]"}], " ", ":=", " ", 
+    RowBox[{
+     RowBox[{"3", 
+      SuperscriptBox["x", "2"]}], "+", 
+     RowBox[{"5", "x"}], "-", "4"}]}], ";"}], 
+  "\[IndentingNewLine]"}]], "Input",
+ CellChangeTimes->{{3.890193726879219*^9, 3.8901938179015055`*^9}, 
+   3.8901941098894925`*^9}],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.8901941068553123`*^9, 3.8901941068732967`*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Solve", "[", 
+  RowBox[{
+   RowBox[{
+    RowBox[{"f", "[", "x", "]"}], "\[Equal]", 
+    RowBox[{"g", "[", "x", "]"}]}], ",", "x"}], "]"}]], "Input",
+ CellChangeTimes->{{3.890193838515547*^9, 3.890193865181059*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"Solve", "::", "nsmet"}], "MessageName"], 
+  RowBox[{
+  ":", " "}], "\<\"This system cannot be solved with the methods available to \
+Solve. \\!\\(\\*ButtonBox[\\\"\[RightSkeleton]\\\", \
+ButtonStyle->\\\"Link\\\", ButtonFrame->None, \
+ButtonData:>\\\"paclet:ref/Solve\\\", ButtonNote -> \
+\\\"Solve::nsmet\\\"]\\)\"\>"}]], "Message", "MSG",
+ CellChangeTimes->{3.890193870744997*^9}],
+
+Cell[BoxData[
+ RowBox[{"Solve", "[", 
+  RowBox[{
+   RowBox[{
+    RowBox[{"f", "[", "x", "]"}], "\[Equal]", 
+    RowBox[{
+     RowBox[{"-", "4"}], "+", 
+     RowBox[{"5", " ", "x"}], "+", 
+     RowBox[{"3", " ", 
+      SuperscriptBox["x", "2"]}]}]}], ",", "x"}], "]"}]], "Output",
+ CellChangeTimes->{3.8901938707459965`*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"NSolve", "[", 
+  RowBox[{
+   RowBox[{
+    RowBox[{"f", "[", "x", "]"}], "\[Equal]", 
+    RowBox[{"g", "[", "x", "]"}]}], ",", "x"}], "]"}]], "Input",
+ CellChangeTimes->{{3.890193886707724*^9, 3.8901939088107395`*^9}, {
+  3.89019404832066*^9, 3.890194064019735*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"NSolve", "::", "nsmet"}], "MessageName"], 
+  RowBox[{
+  ":", " "}], "\<\"This system cannot be solved with the methods available to \
+NSolve. \\!\\(\\*ButtonBox[\\\"\[RightSkeleton]\\\", \
+ButtonStyle->\\\"Link\\\", ButtonFrame->None, \
+ButtonData:>\\\"paclet:ref/NSolve\\\", ButtonNote -> \
+\\\"NSolve::nsmet\\\"]\\)\"\>"}]], "Message", "MSG",
+ CellChangeTimes->{3.8901940664084253`*^9}],
+
+Cell[BoxData[
+ RowBox[{"NSolve", "[", 
+  RowBox[{
+   RowBox[{
+    RowBox[{"f", "[", "x", "]"}], "\[Equal]", 
+    RowBox[{
+     RowBox[{"-", "4"}], "+", 
+     RowBox[{"5", " ", "x"}], "+", 
+     RowBox[{"3", " ", 
+      SuperscriptBox["x", "2"]}]}]}], ",", "x"}], "]"}]], "Output",
+ CellChangeTimes->{3.8901940664094267`*^9}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"FindRoot", "[", 
+  RowBox[{
+   RowBox[{
+    RowBox[{"f", "[", "x", "]"}], "\[Equal]", 
+    RowBox[{"g", "[", "x", "]"}]}], ",", 
+   RowBox[{"{", 
+    RowBox[{"x", ",", "0"}], "}"}]}], "]"}]], "Input",
+ CellChangeTimes->{{3.8901940715637417`*^9, 3.890194095470623*^9}}],
+
+Cell[BoxData[
+ RowBox[{
+  StyleBox[
+   RowBox[{"FindRoot", "::", "nlnum"}], "MessageName"], 
+  RowBox[{
+  ":", " "}], "\<\"The function value \[NoBreak]\\!\\({\\(\\(4.` \
+\[VeryThinSpace]\\)\\) + \\(\\(f[0.`]\\)\\)}\\)\[NoBreak] is not a list of \
+numbers with dimensions \[NoBreak]\\!\\({1}\\)\[NoBreak] at \
+\[NoBreak]\\!\\({x}\\)\[NoBreak] = \[NoBreak]\\!\\({0.`}\\)\[NoBreak]. \\!\\(\
+\\*ButtonBox[\\\"\[RightSkeleton]\\\", ButtonStyle->\\\"Link\\\", \
+ButtonFrame->None, ButtonData:>\\\"paclet:ref/FindRoot\\\", ButtonNote -> \
+\\\"FindRoot::nlnum\\\"]\\)\"\>"}]], "Message", "MSG",
+ CellChangeTimes->{3.890194099895094*^9}],
+
+Cell[BoxData[
+ RowBox[{"FindRoot", "[", 
+  RowBox[{
+   RowBox[{
+    RowBox[{"f", "[", "x", "]"}], "\[Equal]", 
+    RowBox[{"g", "[", "x", "]"}]}], ",", 
+   RowBox[{"{", 
+    RowBox[{"x", ",", "0"}], "}"}]}], "]"}]], "Output",
+ CellChangeTimes->{3.8901940998960943`*^9}]
+}, Open  ]]
+},
+WindowSize->{638, 708},
+WindowMargins->{{-7, Automatic}, {Automatic, 0}},
+FrontEndVersion->"10.0 for Microsoft Windows (64-bit) (December 4, 2014)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID -> "a1f970c1-c35b-4828-b3c3-1774e584c545"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 472, 11, 31, "Input"],
+Cell[1033, 33, 350, 11, 52, "Input"],
+Cell[1386, 46, 96, 1, 31, InheritFromParent],
+Cell[CellGroupData[{
+Cell[1507, 51, 238, 6, 31, "Input"],
+Cell[1748, 59, 430, 10, 21, "Message"],
+Cell[2181, 71, 323, 10, 33, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2541, 86, 289, 7, 31, "Input"],
+Cell[2833, 95, 436, 10, 21, "Message"],
+Cell[3272, 107, 324, 10, 33, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3633, 122, 292, 8, 31, "Input"],
+Cell[3928, 132, 629, 12, 40, "Message"],
+Cell[4560, 146, 269, 8, 31, "Output"]
+}, Open  ]]
+}
+]
+*)
+
