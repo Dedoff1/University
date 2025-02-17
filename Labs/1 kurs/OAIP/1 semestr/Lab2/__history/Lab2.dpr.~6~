@@ -1,0 +1,29 @@
+program Lab2;
+
+{$APPTYPE CONSOLE}
+
+{$R *.res}
+
+uses
+  System.SysUtils;
+
+var
+ M, I: integer;
+begin
+ writeln('¬ведите число M');
+ readln(M);
+ I:= 2;
+ writeln('ƒл€ числа', M, 'простыми делител€ми €вл€ютс€ ');
+ while (M > 1) do
+ begin
+  if (M mod I <> 0) then
+  I:= I + 1
+  else
+  begin
+   writeln(I);
+   M:= M div I;
+  end;
+ end;
+ readln;
+
+end.
