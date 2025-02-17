@@ -1,0 +1,64 @@
+program Lab63;
+
+{$APPTYPE CONSOLE}
+
+{$R *.res}
+
+uses
+  System.SysUtils;
+
+var
+ year , color, Animal : integer;
+begin
+  Writeln('Введите год');
+  Readln(Year);
+  if year >= 1 then
+  begin
+   if year < 4 then
+   color:= 5
+   else
+   begin
+    Year:= Year mod 60;
+    Color:= Year div 12;
+    Year:= Year mod 12;
+   end;
+   Animal:= Year;
+   if color = 0 and 1 then
+    writeln('зелыный');
+   if color = 2 then
+    writeln('красный');
+   if color = 3 then
+    writeln('желтый');
+   if color = 4 then
+    writeln('белый');
+   if color = 5 then
+    writeln('черный');
+   if animal = 3 or 15 then
+    writeln('свинья');
+   if animal = 2 or 14 then
+    writeln('собака');
+   if animal = 1 or 13 then
+    writeln('курица');
+   if animal = 4 then
+    writeln('крыса');
+   if animal = 5 then
+    writeln('корова');
+   if animal = 6 then
+    writeln('тигр');
+   if animal = 7 then
+    writeln('заяц');
+   if animal = 8 then
+    writeln('дракон');
+   if animal = 9 then
+    writeln('змея');
+   if animal = 10 then
+    writeln('лошадь');
+   if animal = 11 then
+    writeln('овца');
+   if animal = 12 then
+    writeln('обезьяна');
+  end
+   else
+    writeln('Проверьте данные');
+   readln;
+ end.
