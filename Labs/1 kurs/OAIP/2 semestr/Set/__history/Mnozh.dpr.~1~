@@ -1,0 +1,67 @@
+program Mnozh;
+
+{$APPTYPE CONSOLE}
+
+{$R *.res}
+
+uses
+  System.SysUtils;
+
+const
+  nmax=100;
+var
+glas: set of 'A'..'Z';
+s : string;
+temp: array of string;
+Flag: array [1..7, 1..nmax] of integer;
+{FlagA: array of boolean;
+FlagW: array of boolean;
+FlagE: array of boolean;
+FlagY: array of boolean;
+FlagU: array of boolean;
+FlagI: array of boolean;
+FlagO: array of boolean; }
+i,v:integer;
+bukv:char;
+{procedure glaspos(l:char);
+begin
+  case l of
+  'A' : if cCount  then
+
+  A:=A+1;
+  'W' : W:=W+1;
+  'E' : E:=E+1;
+  'Y' : Y:=Y+1;
+  'U' : U:=U+1;
+  'I' : I:=I+1;
+  'O' : O:=O+1;
+  end;
+end;}
+begin
+  glas := ['A','W','E','Y','U','I','O'];
+  writeln('¬ведите строку');
+  readln(s);
+  bukv:=s[1];
+  v:=1;
+  while v < length(s) do
+  begin
+   while (bukv <> ',') and (bukv <> '.')  do
+   begin
+    temp[i]:=temp[i]+bukv;
+    v:=v+1;
+    bukv:=s[v];
+   end;
+   i:=i+1;
+   v:=v+1;
+  end;
+for I := 1 to High(temp) do
+    begin
+       for v := 1 to length(temp[i]) do
+         case bukv of
+          'A': writeln();
+
+         end;
+    end;
+
+
+end.

@@ -1,0 +1,46 @@
+program Recursion;
+
+{$APPTYPE CONSOLE}
+
+{$R *.res}
+
+uses
+  System.SysUtils;
+
+var
+ i: integer;
+ s,l: string;
+ f:boolean;
+
+
+begin
+ writeln('Введите строку');
+ readln(s);
+ i:=1;
+ f:=true;
+ while i < length(s) do
+ begin
+  while s[i] <> ' '  do
+  begin
+  l[i] := s[i];
+  i:=i+1;
+  end;
+  if (l[1] in ['a' .. 'z']) or (l='True') or (l='False') then
+  i:=i+1
+  else
+  begin
+   f := false;
+   break
+  end;
+ end;
+ if f=true  then
+ writeln('Строка верна')
+ else
+ writeln('Строка не верна');
+ readln(i);
+
+
+
+
+
+end.

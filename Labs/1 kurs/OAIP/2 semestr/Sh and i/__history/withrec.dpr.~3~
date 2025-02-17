@@ -1,0 +1,103 @@
+Program withrec;
+{
+  Программа высчитывает количество
+  и какие именно можно составить последовательности
+  из исходного количество крючков.
+}
+
+//Подключение модуля
+uses
+  SysUtils;
+
+//Объявление переменных
+Var
+  NumCount: Integer;
+  ResCount: Integer;
+  //NumCount - Количество крючков
+  //ResCount - Количество последовательностей
+
+//Подпрограмма для вычисления количества последовательностей
+{
+   Заданы текущее количество крючков и текущая
+   последовательность, подпрограмма вычисляет следующие
+   элементы последовательности и выводит конечное количество
+   последовательностей.
+}
+Procedure AllSequences(Const StartCount:integer; Const CurrentSequence: String; var ResultCount: Integer);
+Begin
+  //Если крючков не меньше 4-х
+  If StartCount >= 4 then
+  Begin
+    //Разбиваем последовательность на две
+    //(одна с "И", другая с "Ш", если крючков больше 4)
+    AllSequences(StartCount - 2, CurrentSequence + 'И', ResultCount);
+    if StartCount <> 4 then
+      AllSequences(StartCount - 3, CurrentSequence + 'Ш', ResultCount);
+  End
+
+
+  //Если осталось 3 крючка последовательность
+  //оканчивается на "Ш"
+  Else if StartCount = 3 then
+  Begin
+    Inc(ResultCount);
+    Writeln(ResultCount, '. ', CurrentSequence + 'Ш')
+  End
+  //Если 2, то на "И"
+  Else
+  Begin
+    Inc(ResultCount);
+    Writeln(ResultCount, '. ', CurrentSequence + 'И')
+  End;
+End;
+
+//Подпрограмма для ввода
+//целочисленного значения
+{
+  Задана строка, для вывода пользователю. Пользователь вводит
+  значение, пока не введёт корректное
+}
+Function InputNum(Const InputText: String): Integer;
+
+//Объявление переменных
+Var
+  IsCorrect: Boolean;
+  Value: Integer;
+  //IsCorrect - Флаг кооректности ввода
+  //Value - Вводимое значение
+Begin
+  IsCorrect:= False;
+  //Цикл ввода
+  While not IsCorrect do
+  Begin
+    Write(Text);
+    Try
+      //Ввод элемнта
+      Readln(Value);
+      If (Value < 2) then Writeln('Вы ввели некорректные данные. Попробуйте снова')
+      //Если ввод корректный
+      Else IsCorrect:= True;
+    Except
+      //Если ввод не корректный
+      Writeln('Вы ввели некорректные данные. Попробуйте снова');
+    End;
+  End;
+  Result:= Value;
+End;
+
+
+
+Begin
+  //Ввод количества крючков
+  NumCount:= InputNum('Введите количество крючков: ');
+  //Посчёт количесва возможных последовательностей
+  //и их вывод
+  Writeln('Все различные последовательности из "И" и "Ш" :');
+  AllSequences(NumCount, '', ResCount);
+  //Вывод количества последовательностей
+  Writeln('Количество последовательностей: ', ResCount);
+
+  Readln;
+End.
+
+
