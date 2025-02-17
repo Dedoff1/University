@@ -1,2 +1,2 @@
 # University
-Labs from university courses
+Everything from university courses.
