@@ -1,0 +1,47 @@
+// Subprogram for multiplying the matrixes
+{
+  Two matrixes (X1, Y1) of the same size are given.
+  The subprogram returns the matrix that is equal
+  to the result of the multiplication of the matrixes.
+}
+Procedure MultiplyMat(Const X1,Y1:TMatrix;
+                      Var Res:TMatrix);
+
+
+// Declaring counter variables
+Var
+  i,j,l: Integer;
+
+Begin
+  For i:=1 to 3 do
+    For j:=1 to 3 do
+    Begin
+
+      // Initializing the value of the matrix element
+      Res[i,j]:=0;
+      For l:=1 to 3 do
+        Res[i,j]:=Res[i,j]+X1[i,l]*Y1[l,j];
+    End;
+End;
+
+
+// Subprogram for outputting the matrix
+{
+  A matrix X1 is given. The procedure outputs the
+  formatted values of the matrix elements.
+}
+Procedure OutputMat(Const X1:TMatrix);
+
+// Declaring counter variables
+Var
+  i,j:Integer;
+
+Begin
+  For i:=1 to 3 do
+  Begin
+    For j:=1 to 3 do
+      Write(X1[i,j]:6);
+    Writeln
+  End;
+  Writeln
+End;
