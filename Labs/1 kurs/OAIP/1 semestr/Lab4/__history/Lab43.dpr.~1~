@@ -1,0 +1,43 @@
+program Lab43;
+
+{$APPTYPE CONSOLE}
+
+{$R *.res}
+
+uses
+  System.SysUtils;
+
+const
+N=5;
+var
+X:array[1..N] of real;
+i,v,L,W,t,e:integer;
+r:boolean;
+m:real;
+begin
+ for i:=1 to n do
+ begin
+   write('¬ведите элемент массива', 'X[',i,']= ');
+   Readln(X[i]);
+ end;
+ while i <= n do
+ begin
+ M:= X[i];
+ v:=i;
+ while v <= n-1 do
+ begin
+ X[v]:=X[v+1];
+ v:=v+1;
+ end;
+ for v := i+1 to n-2 do
+   if X[v] = M then
+   L:=L+1;
+ end;
+
+
+
+
+
+ end;
+ readln(I);
+end.

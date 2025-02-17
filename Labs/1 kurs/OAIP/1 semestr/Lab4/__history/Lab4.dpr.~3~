@@ -1,0 +1,68 @@
+program Lab4;
+
+{$APPTYPE CONSOLE}
+
+{$R *.res}
+
+uses
+  System.SysUtils;
+
+const
+N=5;
+var
+X:array[1..N] of real;
+L:array[1..2] of integer;
+i,v,r:integer;
+m:real;
+begin
+ for i:=1 to n do
+ begin
+   write('¬ведите элемент массива', 'X[',i,']= ');
+   Readln(X[i]);
+ end;
+ for i:= 1 to n do
+ begin
+   M := X[i];
+   for v := i+1 to n do
+    if X[i] = M then
+     L[r] := L[r]+1;
+    if L[r] = 5 then
+     begin
+     writeln('1');
+     break;
+     end;
+    if L[r] = 4 then
+    begin
+     writeln('2');
+     break;
+    end;
+    if L[r] = 3 then
+     if r = 2 then
+     begin
+      writeln('3');
+      break;
+     end
+     else
+      r:=r+1;
+    if L[r] = 2 then
+     if r = 2 then
+      if L[r-1]=2 then
+      begin
+       writeln('5');
+       break;
+      end
+      else
+      begin
+       writeln('3');
+       break;
+      end
+      else
+       r:=r+1
+     else
+     begin
+      writeln('7');
+      break;
+     end;
+ end;
+ readln(I);
+end.
