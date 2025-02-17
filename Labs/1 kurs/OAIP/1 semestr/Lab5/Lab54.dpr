@@ -1,0 +1,70 @@
+program Lab54;
+
+{$APPTYPE CONSOLE}
+
+{$R *.res}
+
+uses
+  System.SysUtils;
+
+const nmax=20;
+var a:array [1..nmax,1..nmax] of integer;
+    n,m,i,j,k,f,p,t:byte;
+begin
+randomize;
+writeln('Исходная матрица:');
+repeat
+write('Количество строк до ',nmax,' n=');
+readln(n);
+until n in [1..nmax];
+repeat
+write('Количество столбцов до ',nmax,' m=');
+readln(m);
+until m in [1..nmax];
+writeln('Исходная матрица:');
+for i:=1 to n do
+ begin
+   for j:=1 to m do
+    begin
+     a[i,j]:=random(10);
+     write(a[i,j]:3);
+    end;
+   writeln;
+ end;
+writeln;
+{Udalenie strok s 0}
+i:=1;f:=0;
+while i<=n do
+ begin
+  k:=0;
+  for j:=1 to m do
+  if a[i,j]=0 then k:=1;
+  if k=1 then//если в строке есть ноль
+   begin
+    f:=1;//фиксируем
+    for t:=1 to m do//элементы всех строк
+    for p:=i to n-1 do//от последней до следующей за найденной
+    a[p,t]:=a[p+1,t];//поднимаем на 1 вверх
+    n:=n-1;//уменьшаем количество строк
+    for t:=j to m-1 do//элементы всех строк
+    for p:=1 to n do//от последней до следующей за найденной
+    a[p,t]:=a[p,t+1];//поднимаем на 1 вверх
+    m:=m-1;//уменьшаем количество строк
+   end
+  else i:=i+1;
+ end;
+if f=0 then write('В матрице нет нолей!')
+else if n=0 then write('Все строки удалены!')
+else
+ begin
+  writeln('Строки с нолями удалены:');
+  for i:=1 to n do
+   begin
+    for j:=1 to m do
+    write(a[i,j]:3);
+    writeln
+   end;
+ end;
+readln
+end.
+
