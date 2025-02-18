@@ -1,0 +1,4 @@
+john 8
+vlad 4
+kostya 3
+petya 2
