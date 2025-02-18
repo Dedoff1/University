@@ -1,0 +1,4 @@
+﻿  Main.c
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab6\Lab6\Lab6\Main.c(8,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab6\Lab6\Lab6\Main.c(18,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab6.vcxproj -> F:\Projects\Labs\KPO\2 kurs\1 sem\Lab6\Lab6\x64\Debug\Lab6.exe
