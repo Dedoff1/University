@@ -1,0 +1,28 @@
+﻿  Main.c
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(6,41): error C2057: требуется константное выражение
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(6,42): error C2466: невозможно выделить память для массива постоянного нулевого размера
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(6,44): error C2057: требуется константное выражение
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(6,45): error C2466: невозможно выделить память для массива постоянного нулевого размера
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(6,34): error C2087: matrix: отсутствует индекс
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(12,36): error C2057: требуется константное выражение
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(12,37): error C2466: невозможно выделить память для массива постоянного нулевого размера
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(12,39): error C2057: требуется константное выражение
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(12,40): error C2466: невозможно выделить память для массива постоянного нулевого размера
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(12,29): error C2087: matrix: отсутствует индекс
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(22,47): error C2057: требуется константное выражение
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(22,48): error C2466: невозможно выделить память для массива постоянного нулевого размера
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(22,50): error C2057: требуется константное выражение
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(22,51): error C2466: невозможно выделить память для массива постоянного нулевого размера
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(22,40): error C2087: matrix: отсутствует индекс
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(38,35): error C2057: требуется константное выражение
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(38,36): error C2466: невозможно выделить память для массива постоянного нулевого размера
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(38,38): error C2057: требуется константное выражение
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(38,39): error C2466: невозможно выделить память для массива постоянного нулевого размера
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(38,28): error C2087: matrix: отсутствует индекс
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(53,11): error C2057: требуется константное выражение
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(53,12): error C2466: невозможно выделить память для массива постоянного нулевого размера
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(53,14): error C2057: требуется константное выражение
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(53,15): error C2466: невозможно выделить память для массива постоянного нулевого размера
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(53,9): error C2087: a: отсутствует индекс
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(53,9): error C2133: a: неизвестный размер
+F:\Projects\Labs\KPO\2 kurs\1 sem\Lab2\Lab3f\Lab3fff\Lab3fff\Main.c(55,11): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
