@@ -1,0 +1,216 @@
+#include <stdio.h>
+#include <sys/io.h>
+
+#include <errno.h>
+#include <stdlib.h>
+
+#include <string.h>
+#include <stdbool.h>
+#include <values.h>
+#include "pci.h"
+
+//-------------------------Конец INCLUDES------------------------
+
+// Максимальное количество шин(256), устр подключенных к каждой шине и функция у кажд. устройства
+#define MAX_BUS 256
+#define MAX_DEVICE 32
+#define MAX_FUNCTIONS 8
+
+#define ID_REGISTER 0
+
+//На сколько сдвинуть чтобы получить нужную инфу
+#define DEVICEID_SHIFT 16
+#define BUS_SHIFT 16
+#define DEVICE_SHIFT 11
+#define FUNCTION_SHIFT 8
+#define REGISTER_SHIFT 2
+
+// Адреса портов Управления и Инфы соответственно
+#define CONTROL_PORT 0x0CF8
+#define DATA_PORT 0x0CFC
+
+//-------------------------Конец DEFINES------------------------
+
+void printInfo(int bus, int device, int function);
+bool isBridge(int bus, int device, int function);
+long readRegister(int bus, int device, int function, int reg);
+void outputGeneralData(int bus, int device, int function, int regData);
+char *getDeviceName(int vendorID, int deviceID);
+char *getVendorName(int vendorID);
+void outputBusData(long regData);
+void outputIOMemorySpaceBARData(long regData);
+
+
+FILE *out;
+
+//---------------------3 Задание --------------------------------
+
+
+//Вывод информации базовых полей регистров ввода/вывода
+void outputBARsData(int bus, int device, int function) {
+     puts("3. Basic input/output registers:");
+
+     int flag = 1;
+     for (int i = 0; i < 6; i++) {
+        long regData = readRegister(bus, device, function, 4 + i);
+        if (regData) {
+            // Если 0 бит = 0 - это регистр баз адреса памяти, если = 1 - это регистр портов
+            if ((regData & 1)) {
+                printf("Input/output register %d: ", i);
+            flag = 0;
+                outputIOMemorySpaceBARData(regData);
+            }
+        }
+    }
+    if (flag)
+    {
+      printf("There are no basic input/output registers.\n");
+    }
+}
+
+void outputIOMemorySpaceBARData(long regData) {
+  unsigned long reg1Data = regData - 1;
+  printf("%#lx\n", reg1Data);
+}
+
+//---------------------5 Задание --------------------------------
+int getCache(int bus, int device,int function){
+    return(readRegister(bus,device,function,6) & 0xFF);
+}
+void outprintCache(int bus, int device, int function){
+    printf("Cache line size: ");
+    int cache = getCache(bus,device,function);
+    printf("%d");
+}
+
+
+//---------------------10 Задание --------------------------------
+// 8 register, 2-3 byte - Mem Limit, 0-1 byte - Mem Base
+// задают начальный и конечный адрес пространства памяти,
+// на которую отображены регистры ввода-вывода устройств, расположенных за мостом
+void outputMemoryBaseData(long regData) {
+    printf("\n10. Register 8 data: %x\n", regData);
+
+    long memBase = regData & 0xFFFF;
+    long memLimit  = (regData >> 16) & 0xFFFF;
+    printf("Memory base data: %x\n", memBase);
+    printf ("Memory limit data: %x \n", memLimit);
+}
+
+
+//=======================GENERAL=======================================================================
+
+// получаем имя производителя
+char *getVendorName(int vendorID) {
+    for (int i = 0; i < PCI_VENTABLE_LEN; i++) {
+        if (PciVenTable[i].VendorId == vendorID) {
+            return PciVenTable[i].VendorName;
+        }
+    }
+    return NULL;
+}
+
+// получаем имя устройства
+char *getDeviceName(int vendorID, int deviceID) {
+    for (int i = 0; i < PCI_DEVTABLE_LEN; i++) {
+        if (PciDevTable[i].VendorId == vendorID && PciDevTable[i].DeviceId == deviceID) {
+            return PciDevTable[i].DeviceName;
+        }
+    }
+    return NULL;
+}
+// функция выводит имя и 16-разрядный код производтеля
+void outputVendorData(int vendorID) {
+    char *vendorName = getVendorName(vendorID);
+    printf( "Vendor ID: %04x, %s\n", vendorID, vendorName ? vendorName : "Unknown vendor");
+}
+
+// функция выводит имя и 16-разрядный код устройства
+void outputDeviceData(int vendorID, int deviceID) {
+    char *deviceName = getDeviceName(vendorID, deviceID);
+  printf( "Device ID: %04x, %s\n", deviceID, deviceName ? deviceName : "Unknown device");
+}
+
+// функция выводит 1. адрес устройства (номер шины, устройства и функции),
+// 2. 16-разрядный код производителя
+// 3. 16-разрядный код устройства
+// 4. проивзодитель и название устройства
+void outputGeneralData(int bus, int device, int function, int regData) {
+    printf( "%x:%x:%x\n", bus, device, function);
+    int deviceID = regData >> DEVICEID_SHIFT;
+    int vendorID = regData & 0xFFFF;
+    outputVendorData(vendorID);
+    outputDeviceData(vendorID, deviceID);
+}
+
+// функция читает нужный регистр reg функции function устройства device шины bus
+long readRegister(int bus, int device, int function, int reg) {
+    // с помощью сдвигов формирум адрес нужного регистра
+    long configRegAddress = (1 << 31) | (bus << BUS_SHIFT) | (device << DEVICE_SHIFT) | (function << FUNCTION_SHIFT) | (reg << REGISTER_SHIFT);
+
+    // загружаем полученный адрес в регистр управления
+    outl(configRegAddress, CONTROL_PORT);
+
+    // читаем значение из реггистра данных
+    return inl(DATA_PORT);
+}
+
+// функция проверяет, является ли устройство мостом (0-бит поля Header Type = 1)
+bool isBridge(int bus, int device, int function) {
+    // читаем 3 регистр из пространства конфигураций
+    long headerTypeRegData = readRegister(bus, device, function, 3);
+
+    //Если 0 бит Header Type = 1, это мост, возвращаем этот бит
+    return ((headerTypeRegData >> 16) & 0xFF) & 1;
+}
+
+
+// функция выводит информацию о заданном мосте, устройстве и функции
+void printInfo(int bus, int device, int function) {
+    long idRegData = readRegister(bus, device, function, ID_REGISTER);
+
+    // если записано 0хFFFFFFFF, значит, устройства не существует
+    if (idRegData != 0xFFFFFFFF) {
+        outputGeneralData(bus, device, function, idRegData);
+
+    
+    // и Mеmory Base и Memory Limit (задание 10)
+    if (isBridge(bus, device, function)) {
+      printf("\nA BRIDGE\n");
+        outputMemoryBaseData(readRegister(bus, device, function, 8));  
+    }
+
+    // если устройтсво не мост (0 бит поля Header Type = 0), выводим
+    // значение полей базовых регистров ввода/вывода (задание 3)
+    // если устройство не мост(0-бит поля Header Type =0) вывести  и 
+    // расшифровать значение поля  Cache Line Size (задание 5)
+    else {
+        printf("\nNOT A BRIDGE\n\n");
+        outputBARsData(bus, device, function);
+        outprintCache(bus, device, function);
+    }
+    puts("\n---------------------------------------------------");
+    }
+}
+
+
+int main() {
+    // изменение уровня привилегий программы
+    if (iopl(3)) {
+        printf("I/O Privilege level change error: %s\nTry running under ROOT user\n", strerror(errno));
+        return 2;
+    }
+
+    puts("\n---------------------------------------------------");
+    // циклы, проходящие по всем шинам, устройствам и их функциям
+    for (int buses = 0; buses < MAX_BUS; buses++) {
+        for (int device = 0; device < MAX_DEVICE; device++) {
+            for (int function = 0; function < MAX_FUNCTIONS; function++) {
+                printInfo(buses, device, function);
+      }
+    }
+  }
+
+    fclose(out);
+    return 0;
+}

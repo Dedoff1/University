@@ -1,0 +1,78 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <dirent.h>
+#include <sys/stat.h>
+#include <unistd.h>
+#include <fcntl.h>
+
+#define MAX_FILES 1000
+#define DT_DIR 4
+// Функция, которая ищет дубликаты файлов с одинаковым содержимым
+void findDuplicateFiles(const char* directory, int sizeStart, int sizeEnd) {
+    struct dirent *entry;
+    DIR *dp;
+    int sizes[MAX_FILES] = {0};
+    
+    if ((dp = opendir(directory)) == NULL) {
+        perror("opendir");
+        return;
+    }
+
+    while ((entry = readdir(dp))) {
+        char path[1024];
+        struct stat statbuf;
+        snprintf(path, sizeof(path), "%s/%s", directory, entry->d_name);
+        if (entry->d_type == DT_DIR) {
+            if (strcmp(entry->d_name, ".") != 0 && strcmp(entry->d_name, "..") != 0) {
+                findDuplicateFiles(path, sizeStart, sizeEnd);
+            }
+        } else {
+            stat(path, &statbuf);
+            
+            if (S_ISREG(statbuf.st_mode)) {
+                if (statbuf.st_size >= sizeStart && statbuf.st_size <= sizeEnd) {
+                    FILE *file = fopen(path, "r");
+                    if (file) {
+                        fseek(file, 0, SEEK_END);
+                        int fileSize = ftell(file);
+                        fclose(file);
+
+                        for (int i = 0; i < MAX_FILES; i++) {
+                            if (sizes[i] == fileSize) {
+                                printf("Duplicate file found: %s\n", path);
+                                break;
+                            }
+                            if (sizes[i] == 0) {
+                                sizes[i] = fileSize;
+                                break;
+                            }
+                        }
+                    } else {
+                        perror("fopen");
+                    }
+                }
+            }
+        }
+    }
+
+    closedir(dp);
+}
+
+int main(int argc, char *argv[]) {
+    if (argc < 4) {
+        fprintf(stderr, "Usage: %s <directory> <sizeStart> <sizeEnd>\n", argv[0]);
+        return 1;
+    }
+
+    char *directory = argv[1];
+    int sizeStart = atoi(argv[2]);
+    int sizeEnd = atoi(argv[3]);
+
+    printf("Searching for duplicate files in directory: %s\n", directory);
+    printf("Files in the size range from %d to %d\n", sizeStart, sizeEnd);
+
+    findDuplicateFiles(directory, sizeStart, sizeEnd);
+
+    return 0;
+}

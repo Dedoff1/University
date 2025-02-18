@@ -1,0 +1,72 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <dirent.h>
+#include <sys/stat.h>
+#include <sys/wait.h>
+#include <unistd.h>
+#include <fcntl.h>
+
+#define DT_DIR 4
+#define DT_REG 8
+void searchInDirectory(const char *directory, int minSize, int maxSize, const char *resultFile, int maxProcesses) {
+    int count = 0;
+
+    DIR *dir;
+    struct dirent *entry;
+
+    if ((dir = opendir(directory)) == NULL) {
+        perror("opendir");
+        return;
+    }
+
+    while ((entry = readdir(dir)) != NULL) {
+        if (entry->d_type == DT_DIR && strcmp(entry->d_name, ".") != 0 && strcmp(entry->d_name, "..") != 0) {
+            if (fork() == 0) {
+                char newDirectory[1024];
+                snprintf(newDirectory, sizeof(newDirectory), "%s/%s", directory, entry->d_name);
+                searchInDirectory(newDirectory, minSize, maxSize, resultFile, maxProcesses);
+                exit(0);
+            }
+        } else if (entry->d_type == DT_REG) {
+            struct stat statbuf;
+            char filePath[1024];
+            snprintf(filePath, sizeof(filePath), "%s/%s", directory, entry->d_name);
+            stat(filePath, &statbuf);
+
+            if (S_IXUSR & statbuf.st_mode && statbuf.st_size >= minSize && statbuf.st_size <= maxSize) {
+                FILE *out = fopen(resultFile, "a");
+                if (out == NULL) {
+                    perror("fopen");
+                    return;
+                }
+                fprintf(out, "PID: %d, Path: %s, Name: %s, Size: %lld\n", getpid(), filePath, entry->d_name, (long long)statbuf.st_size);
+                fclose(out);
+                count++;
+            }
+        }
+    }
+
+    while (wait(NULL) > 0)
+        ;
+
+    printf("Total files in directory %s: %d\n", directory, count);
+    closedir(dir);
+}
+
+int main(int argc, char *argv[]) {
+    if (argc < 5) {
+        fprintf(stderr, "Usage: %s <minSize> <maxSize> <directory> <resultFile> <maxProcesses>\n", argv[0]);
+        return 1;
+    }
+
+    int minSize = atoi(argv[1]);
+    int maxSize = atoi(argv[2]);
+    const char *directory = argv[3];
+    const char *resultFile = argv[4];
+    int maxProcesses = atoi(argv[5]);
+
+    searchInDirectory(directory, minSize, maxSize, resultFile, maxProcesses);
+
+    return 0;
+}
