@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\1\Desktop\T\Source.cpp(145,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\1\Desktop\T\Source.cpp(159,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  T.vcxproj -> C:\Users\1\Desktop\T\x64\Debug\T.exe
