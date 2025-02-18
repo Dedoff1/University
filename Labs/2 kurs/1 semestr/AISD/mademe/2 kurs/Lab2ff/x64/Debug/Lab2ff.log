@@ -1,0 +1,5 @@
+﻿  Main.c
+F:\Projects\Labs\AISD\mademe\2 курс\Lab2ff\Main.c(235,16): warning C4473: "printf": передано недостаточно аргументов для строки формата
+F:\Projects\Labs\AISD\mademe\2 курс\Lab2ff\Main.c(235,16): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 0
+F:\Projects\Labs\AISD\mademe\2 курс\Lab2ff\Main.c(235,16): message : отсутствующий вариативный аргумент "1" требуется для строки форматирования "%s"
+  Lab2ff.vcxproj -> F:\Projects\Labs\AISD\mademe\2 курс\Lab2ff\x64\Debug\Lab2ff.exe
