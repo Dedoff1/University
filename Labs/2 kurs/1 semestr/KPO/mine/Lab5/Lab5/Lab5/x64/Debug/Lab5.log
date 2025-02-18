@@ -1,3 +1,0 @@
-﻿  Main.c
-F:\Projects\Labs\KPO\2 kurs\1 sem\Lab5\Lab5\Lab5\Main.c(9,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  Lab5.vcxproj -> F:\Projects\Labs\KPO\2 kurs\1 sem\Lab5\Lab5\x64\Debug\Lab5.exe
