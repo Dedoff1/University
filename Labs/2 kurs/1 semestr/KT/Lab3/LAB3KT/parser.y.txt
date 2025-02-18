@@ -1,0 +1,57 @@
+%{ 
+#include <stdio.h> 
+%} 
+
+%token COMA 
+%token LOX
+%token COLON 
+%token ROUNDOPEN 
+%token ROUNDCLOSE 
+%token WORD 
+%token LOGIC1
+%token LOGIC2 
+%token NUL
+%token NUMBER
+%token OPEN 
+%token CLOSE
+
+%% 
+program:ROUNDOPEN statement ROUNDCLOSE{
+	printf("corret string\n");
+}
+; 
+statement:follow next
+| epsilon
+;
+statement2:COMA follow next
+|epsilon
+;
+
+
+epsilon:
+;
+next:statement2;
+ 
+follow:identifier
+|ROUNDOPEN statement ROUNDCLOSE
+|OPEN statement CLOSE
+|LOX WORD LOX COLON identifier
+|LOX WORD LOX
+;
+
+identifier:LOX WORD LOX
+| LOGIC1
+| LOGIC2
+| NUL
+| NUMBER
+;
+%% 
+
+int main() { 
+yyparse(); 
+return 0; 
+} 
+
+void yyerror(char *s) { 
+fprintf (stderr, "%s\n", s); 
+}

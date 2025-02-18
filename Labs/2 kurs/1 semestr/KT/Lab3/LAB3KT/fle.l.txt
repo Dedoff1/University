@@ -1,0 +1,66 @@
+%{
+#include "y.tab.h"	
+%}
+
+%%
+[ \t\n] { 
+/* ignore whitespace and newline */ 
+} 
+
+"," {
+	return COMA;
+}
+
+"'" {
+	return LOX;
+}
+
+":" {
+	return COLON;
+}
+
+"{" {
+	return ROUNDOPEN;
+}
+
+"}" {
+	return ROUNDCLOSE;
+}
+
+"[" {
+	return OPEN;
+}
+
+"]" {
+	return CLOSE;
+}
+
+"true" {
+	return LOGIC1;
+}
+
+"false" {
+	return LOGIC2;
+}
+
+"null" {
+	return NUL;
+}
+
+[0-9]+ {
+	return NUMBER;
+}
+
+[A-Za-z0-9]+ {
+	return WORD;
+}
+. { 
+yyerror("invalid character"); 
+} 
+
+
+%% 
+
+int yywrap() { 
+return 1; 
+}

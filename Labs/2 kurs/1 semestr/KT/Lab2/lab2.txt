@@ -1,0 +1,22 @@
+%{
+#include <stdio.h>
+%}
+
+%%
+
+"<"   { printf("\n<"); }
+">"   { printf(">\n"); }
+\n    { ; }   /* игнорируем перевод строки */
+[^<>]+ { printf("%s", yytext); }
+
+%%
+
+int yywrap() {
+    return 1;  // indicating end of input
+}
+
+int main() {
+    yylex();  // вызываем анализатор
+    return 0;
+}
+

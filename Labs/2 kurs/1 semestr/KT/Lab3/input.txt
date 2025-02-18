@@ -1,0 +1,57 @@
+main() ->
+    Loop(1, 5),
+
+Loop(N, Max) when N <= Max ->
+    case N rem 4 of
+        0 ->
+	     i = i + N,
+	     a = N div i,
+	     j = i - N,
+	     while(N),
+	     while(V) ->
+		p = p + 1,
+		k = k - p
+	    	while(V + 1);
+ 
+        1 -> 
+	     While(0),
+	     While(M) ->
+		i = i rem j
+	        While(M-1);
+		
+	2 ->
+	    case M div 5 of
+		1 -> 
+		     j = 5 + j;
+		2 -> 
+		     j = 2 - k;
+	    end;
+	3 ->
+	    For(7, 1),
+	    For(O, Min) when O >= Min ->
+		i = N rem M
+		For(O-1, Min);
+    end,
+    i = i - 1
+    Loop(N+1, Max),
+
+i = i + 1,
+
+while(10),
+while(I) ->
+	j = j + i,
+	case j rem i of
+		1 -> 
+			k = j + 1
+		2 ->
+			k = i + 1;
+	end
+	while(I+1),
+
+for(0,5),
+for(I, Five) when I <= Five ->
+	for(0,5),
+	for(J,Five) when J <= Five ->
+		l = l + 1
+		for(J+1, Five)
+	for(I+1, Five).

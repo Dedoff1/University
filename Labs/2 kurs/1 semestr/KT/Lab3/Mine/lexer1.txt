@@ -1,0 +1,47 @@
+%{
+#include "y.tab.h"
+%}
+ 
+%%
+ 
+[ \t\n]   {
+    /* ignore whitespace and newline */
+}
+ 
+"expr"  {
+    return EXPR;
+}
+ 
+"SELECT"    {
+    return SELECT;
+}
+ 
+"WHERE"  {
+    return WHERE;
+}
+ 
+"FROM"   {
+    return FROM;
+}
+ 
+"{"     {
+    return LEFT;
+}
+ 
+"}"     {
+    return RIGHT;
+}
+ 
+";"     {
+    return SEMICOLON;
+}
+ 
+.       {
+    yyerror("invalid character");
+}
+ 
+%%
+ 
+int yywrap() {
+    return 1;
+}

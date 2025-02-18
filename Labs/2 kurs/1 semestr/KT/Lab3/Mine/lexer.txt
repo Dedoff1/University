@@ -1,0 +1,47 @@
+%{
+#include "y.tab.h"
+%}
+ 
+%%
+ 
+[ \t\n]   {
+    /* ignore whitespace and newline */
+}
+ 
+"expr"  {
+    return EXPR;
+}
+ 
+"if"    {
+    return IF;
+}
+ 
+"else"  {
+    return ELSE;
+}
+ 
+"for"   {
+    return FOR;
+}
+ 
+"{"     {
+    return LEFT;
+}
+ 
+"}"     {
+    return RIGHT;
+}
+ 
+";"     {
+    return SEMICOLON;
+}
+ 
+.       {
+    yyerror("invalid character");
+}
+ 
+%%
+ 
+int yywrap() {
+    return 1;
+}

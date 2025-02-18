@@ -1,0 +1,44 @@
+%{
+#include <stdio.h>
+%}
+ 
+%token SELECT
+%token FROM
+%token WHERE
+%token LEFT
+%token RIGHT
+%token EXPR
+%token SEMICOLON
+ 
+%%
+ 
+statement:
+         | select_statement
+         | from_statement
+         | where_statement
+;
+ 
+select_statement: SELECT EXPR LEFT statement RIGHT else_statement { printf("correct if statement \n"); }
+;
+ 
+else_statement:
+        | ELSE if_statement
+        | ELSE LEFT statement RIGHT
+;
+ 
+for_statement: FOR EXPR SEMICOLON EXPR SEMICOLON EXPR LEFT statement RIGHT { printf("correct for statement \n"); }
+;
+ 
+while_statement: FOR EXPR LEFT statement RIGHT { printf("correct while statement \n"); }
+;
+ 
+%%
+ 
+int main() {
+    yyparse();
+    return 0;
+}
+ 
+void yyerror(char *s) {
+      fprintf (stderr, "%s\n", s);
+}

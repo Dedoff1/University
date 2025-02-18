@@ -1,0 +1,3 @@
+﻿  Main.c
+F:\Projects\Labs\KT\Lab1\Main.c(30,61): warning C4129: : неизвестная escape-последовательность
+  Lab1.vcxproj -> F:\Projects\Labs\KT\Lab1\x64\Debug\Lab1.exe
