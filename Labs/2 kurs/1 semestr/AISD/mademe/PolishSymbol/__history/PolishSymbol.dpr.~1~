@@ -1,0 +1,31 @@
+program PolishSymbol;
+
+{$APPTYPE CONSOLE}
+
+{$R *.res}
+
+uses
+  System.SysUtils;
+
+var
+s,s1: string;
+ops1
+procedure checking(st:length);
+var
+sym:char;
+  I: Integer;
+begin
+ for I := 1 to length(s) do
+  sym:=st(i);
+    if sym=ops1 then
+
+end;
+begin
+  s:='';
+  s1:='';
+  writeln('Введите выражение');
+  readln(s);
+  writeln('Преобразованная строка');
+  readln(s1);
+  sleep(1234);
+end.

@@ -1,0 +1,74 @@
+program anti2;
+
+{$APPTYPE CONSOLE}
+
+{$R *.res}
+
+
+
+uses
+  System.SysUtils, System.Classes, System.Generics.Collections;
+
+function IsOperator(const AToken: string): Boolean;
+begin
+  Result := (AToken = '+') or (AToken = '-') or (AToken = '*') or (AToken = '/') or (AToken = '^');
+end;
+
+function ConvertFromRPN(const AExpression: string; const AValues: TDictionary<string, string>): string;
+var
+  Stack: TStack<string>;
+  Token, Value: string;
+  i: Integer;
+begin
+  Stack := TStack<string>.Create;
+  try
+    for Token in AExpression.Split([' ']) do
+    begin
+      if IsOperator(Token) then
+      begin
+        if Stack.Count < 2 then
+          raise Exception.Create('Invalid RPN expression');
+        Result := Result + Stack.Pop + ' ';
+        Result := Result + Stack.Pop + ' ';
+        Result := Result + Token + ' ';
+        Stack.Push(Result.Trim);
+        Result := '';
+      end
+      else
+      begin
+        if AValues.TryGetValue(Token, Value) then
+          Token := Value;
+        Stack.Push(Token);
+      end;
+    end;
+    if Stack.Count <> 1 then
+      raise Exception.Create('Invalid RPN expression');
+    Result := Stack.Pop;
+  finally
+    Stack.Free;
+  end;
+end;
+
+var
+  RPNExpression: string;
+  Expression: string;
+  Values: TDictionary<string, string>;
+
+begin
+  Values := TDictionary<string, string>.Create;
+  try
+    // заранее задаем значения букв
+    Values.Add('a', '2');
+    Values.Add('b', '3');
+    Values.Add('c', '4');
+
+    Write('Enter an RPN expression: ');
+    ReadLn(RPNExpression);
+    Expression := ConvertFromRPN(RPNExpression, Values);
+    WriteLn('Expression: ', Expression);
+  finally
+    Values.Free;
+  end;
+end.
+
+
