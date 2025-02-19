@@ -1,0 +1,87 @@
+version: '3'
+
+services:
+
+  nginx:
+    image: nginx:latest
+    container_name: nginx-proxy
+    networks:
+      - mynetwork
+    ports:
+      - "80:80"       # HTTP
+      - "443:443"     # HTTPS (опционально)
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro  # Подключаем конфигурацию
+    depends_on:
+      - ms-user-cont
+      - ms-cart-cont
+      - ms-notification-cont
+      - ms-feedback-cont
+      - ms-catalog-cont
+
+  rabbitmq-cont:
+    image: rabbitmq:management
+    networks:
+      - mynetwork
+  
+  db-cont:
+    image: dbmy
+    networks:
+      - mynetwork
+  
+  ms-user-cont:
+    image: fishingcatalogmsuser
+    networks:
+      - mynetwork
+    ports:
+      - "5001:8080"   # проброс порта для сервиса ms-user
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    depends_on:
+      - rabbitmq-cont
+
+  ms-cart-cont:
+    image: fishingcatalogmscart
+    networks:
+      - mynetwork
+    ports:
+      - "5002:8080"   # проброс порта для сервиса ms-cart
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    depends_on:
+      - rabbitmq-cont
+
+  ms-notification-cont:
+    image: fishingcatalogmsnotification
+    networks:
+      - mynetwork
+    ports:
+      - "5003:8080"   # проброс порта для сервиса ms-notification
+    depends_on:
+      - rabbitmq-cont
+
+  ms-feedback-cont:
+    image: fishingcatalogmsfeedback
+    networks:
+      - mynetwork
+    ports:
+      - "5004:8080"   # проброс порта для сервиса ms-feedback
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    depends_on:
+      - rabbitmq-cont
+
+  ms-catalog-cont:
+    image: fishingcatalogmscatalog
+    networks:
+      - mynetwork
+    ports:
+      - "5005:8080"   # проброс порта для сервиса ms-catalog
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+
+
+
+networks:
+  mynetwork:
+    driver: bridge
