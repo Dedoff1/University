@@ -1,0 +1,28 @@
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\bin\Debug\Lab5.exe.config
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.Cache
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\bin\Debug\Lab5.exe
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\bin\Debug\Lab5.pdb
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\obj\Debug\Lab5.exe
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\obj\Debug\Lab5.pdb
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\bin\Debug\SyntaxHighlighter.dll
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\bin\Debug\Algorithm.dll
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\bin\Debug\Algorithm.pdb
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\Lab5\obj\Debug\Lab5.exe
+E:\Универ\5 сем\МиАПР\Работы\Lab5\Lab5\Lab5\obj\Debug\Lab5.pdb
+F:\Projects\Labs\MIAPR\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+F:\Projects\Labs\MIAPR\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe
+F:\Projects\Labs\MIAPR\Lab5\Lab5\Lab5\bin\Debug\Lab5.pdb
+F:\Projects\Labs\MIAPR\Lab5\Lab5\Lab5\bin\Debug\Algorithm.dll
+F:\Projects\Labs\MIAPR\Lab5\Lab5\Lab5\bin\Debug\Algorithm.pdb
+F:\Projects\Labs\MIAPR\Lab5\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+F:\Projects\Labs\MIAPR\Lab5\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+F:\Projects\Labs\MIAPR\Lab5\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+F:\Projects\Labs\MIAPR\Lab5\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+F:\Projects\Labs\MIAPR\Lab5\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+F:\Projects\Labs\MIAPR\Lab5\Lab5\Lab5\obj\Debug\Lab5.csproj.CopyComplete
+F:\Projects\Labs\MIAPR\Lab5\Lab5\Lab5\obj\Debug\Lab5.exe
+F:\Projects\Labs\MIAPR\Lab5\Lab5\Lab5\obj\Debug\Lab5.pdb
