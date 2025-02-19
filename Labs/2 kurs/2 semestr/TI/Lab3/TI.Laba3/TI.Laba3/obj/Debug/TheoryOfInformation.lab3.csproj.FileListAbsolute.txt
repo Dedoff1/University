@@ -1,0 +1,100 @@
+D:\BSUIR\course-2\TI\TheoryOfInformation.lab3\obj\Debug\TheoryOfInformation.lab3.csproj.AssemblyReference.cache
+D:\BSUIR\course-2\TI\TheoryOfInformation.lab3\obj\Debug\ReportWindow.baml
+D:\BSUIR\course-2\TI\TheoryOfInformation.lab3\obj\Debug\FileWindow.g.cs
+D:\BSUIR\course-2\TI\TheoryOfInformation.lab3\obj\Debug\MainWindow.g.cs
+D:\BSUIR\course-2\TI\TheoryOfInformation.lab3\obj\Debug\ReportWindow.g.cs
+D:\BSUIR\course-2\TI\TheoryOfInformation.lab3\obj\Debug\App.g.cs
+D:\BSUIR\course-2\TI\TheoryOfInformation.lab3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\BSUIR\course-2\TI\TheoryOfInformation.lab3\obj\Debug\FileWindow.baml
+D:\BSUIR\course-2\TI\TheoryOfInformation.lab3\obj\Debug\MainWindow.baml
+D:\BSUIR\course-2\TI\TheoryOfInformation.lab3\obj\Debug\TheoryOfInformation.lab3.csproj.GenerateResource.cache
+D:\BSUIR\course-2\TI\TheoryOfInformation.lab3\obj\Debug\TheoryOfInformation.lab3.csproj.CoreCompileInputs.cache
+D:\BSUIR\course-2\TI\TheoryOfInformation.lab3\bin\Debug\TheoryOfInformation.lab3.exe.config
+D:\BSUIR\course-2\TI\TheoryOfInformation.lab3\bin\Debug\TheoryOfInformation.lab3.exe
+D:\BSUIR\course-2\TI\TheoryOfInformation.lab3\bin\Debug\TheoryOfInformation.lab3.pdb
+D:\BSUIR\course-2\TI\TheoryOfInformation.lab3\obj\Debug\TheoryOfInformation.lab3_MarkupCompile.cache
+D:\BSUIR\course-2\TI\TheoryOfInformation.lab3\obj\Debug\TheoryOfInformation.lab3_MarkupCompile.lref
+D:\BSUIR\course-2\TI\TheoryOfInformation.lab3\obj\Debug\TheoryOfInformation.lab3.g.resources
+D:\BSUIR\course-2\TI\TheoryOfInformation.lab3\obj\Debug\TheoryOfInformation.lab3.Properties.Resources.resources
+D:\BSUIR\course-2\TI\TheoryOfInformation.lab3\obj\Debug\TheoryOfInformation.lab3.exe
+D:\BSUIR\course-2\TI\TheoryOfInformation.lab3\obj\Debug\TheoryOfInformation.lab3.pdb
+D:\BSUIR\course-2\TI\TI.laba3\bin\Debug\TheoryOfInformation.lab3.exe.config
+D:\BSUIR\course-2\TI\TI.laba3\bin\Debug\TheoryOfInformation.lab3.exe
+D:\BSUIR\course-2\TI\TI.laba3\bin\Debug\TheoryOfInformation.lab3.pdb
+D:\BSUIR\course-2\TI\TI.laba3\obj\Debug\TheoryOfInformation.lab3.csproj.AssemblyReference.cache
+D:\BSUIR\course-2\TI\TI.laba3\obj\Debug\ReportWindow.baml
+D:\BSUIR\course-2\TI\TI.laba3\obj\Debug\FileWindow.g.cs
+D:\BSUIR\course-2\TI\TI.laba3\obj\Debug\MainWindow.g.cs
+D:\BSUIR\course-2\TI\TI.laba3\obj\Debug\ReportWindow.g.cs
+D:\BSUIR\course-2\TI\TI.laba3\obj\Debug\App.g.cs
+D:\BSUIR\course-2\TI\TI.laba3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\BSUIR\course-2\TI\TI.laba3\obj\Debug\TheoryOfInformation.lab3_MarkupCompile.cache
+D:\BSUIR\course-2\TI\TI.laba3\obj\Debug\TheoryOfInformation.lab3_MarkupCompile.lref
+D:\BSUIR\course-2\TI\TI.laba3\obj\Debug\FileWindow.baml
+D:\BSUIR\course-2\TI\TI.laba3\obj\Debug\MainWindow.baml
+D:\BSUIR\course-2\TI\TI.laba3\obj\Debug\TheoryOfInformation.lab3.g.resources
+D:\BSUIR\course-2\TI\TI.laba3\obj\Debug\TheoryOfInformation.lab3.Properties.Resources.resources
+D:\BSUIR\course-2\TI\TI.laba3\obj\Debug\TheoryOfInformation.lab3.csproj.GenerateResource.cache
+D:\BSUIR\course-2\TI\TI.laba3\obj\Debug\TheoryOfInformation.lab3.csproj.CoreCompileInputs.cache
+D:\BSUIR\course-2\TI\TI.laba3\obj\Debug\TheoryOfInformation.lab3.exe
+D:\BSUIR\course-2\TI\TI.laba3\obj\Debug\TheoryOfInformation.lab3.pdb
+C:\Users\Аndrew Kardychka\Desktop\TI.Laba3\bin\Debug\TheoryOfInformation.lab3.exe.config
+C:\Users\Аndrew Kardychka\Desktop\TI.Laba3\bin\Debug\TheoryOfInformation.lab3.exe
+C:\Users\Аndrew Kardychka\Desktop\TI.Laba3\bin\Debug\TheoryOfInformation.lab3.pdb
+C:\Users\Аndrew Kardychka\Desktop\TI.Laba3\obj\Debug\TheoryOfInformation.lab3.csproj.AssemblyReference.cache
+C:\Users\Аndrew Kardychka\Desktop\TI.Laba3\obj\Debug\ReportWindow.baml
+C:\Users\Аndrew Kardychka\Desktop\TI.Laba3\obj\Debug\FileWindow.g.cs
+C:\Users\Аndrew Kardychka\Desktop\TI.Laba3\obj\Debug\MainWindow.g.cs
+C:\Users\Аndrew Kardychka\Desktop\TI.Laba3\obj\Debug\ReportWindow.g.cs
+C:\Users\Аndrew Kardychka\Desktop\TI.Laba3\obj\Debug\App.g.cs
+C:\Users\Аndrew Kardychka\Desktop\TI.Laba3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Аndrew Kardychka\Desktop\TI.Laba3\obj\Debug\TheoryOfInformation.lab3_MarkupCompile.cache
+C:\Users\Аndrew Kardychka\Desktop\TI.Laba3\obj\Debug\TheoryOfInformation.lab3_MarkupCompile.lref
+C:\Users\Аndrew Kardychka\Desktop\TI.Laba3\obj\Debug\FileWindow.baml
+C:\Users\Аndrew Kardychka\Desktop\TI.Laba3\obj\Debug\MainWindow.baml
+C:\Users\Аndrew Kardychka\Desktop\TI.Laba3\obj\Debug\TheoryOfInformation.lab3.g.resources
+C:\Users\Аndrew Kardychka\Desktop\TI.Laba3\obj\Debug\TheoryOfInformation.lab3.Properties.Resources.resources
+C:\Users\Аndrew Kardychka\Desktop\TI.Laba3\obj\Debug\TheoryOfInformation.lab3.csproj.GenerateResource.cache
+C:\Users\Аndrew Kardychka\Desktop\TI.Laba3\obj\Debug\TheoryOfInformation.lab3.csproj.CoreCompileInputs.cache
+C:\Users\Аndrew Kardychka\Desktop\TI.Laba3\obj\Debug\TheoryOfInformation.lab3.exe
+C:\Users\Аndrew Kardychka\Desktop\TI.Laba3\obj\Debug\TheoryOfInformation.lab3.pdb
+C:\БГУИР\4 семестр\ТИ\Л3\TI.Laba3\bin\Debug\TheoryOfInformation.lab3.exe.config
+C:\БГУИР\4 семестр\ТИ\Л3\TI.Laba3\bin\Debug\TheoryOfInformation.lab3.exe
+C:\БГУИР\4 семестр\ТИ\Л3\TI.Laba3\bin\Debug\TheoryOfInformation.lab3.pdb
+C:\БГУИР\4 семестр\ТИ\Л3\TI.Laba3\obj\Debug\TheoryOfInformation.lab3.csproj.AssemblyReference.cache
+C:\БГУИР\4 семестр\ТИ\Л3\TI.Laba3\obj\Debug\ReportWindow.baml
+C:\БГУИР\4 семестр\ТИ\Л3\TI.Laba3\obj\Debug\FileWindow.g.cs
+C:\БГУИР\4 семестр\ТИ\Л3\TI.Laba3\obj\Debug\MainWindow.g.cs
+C:\БГУИР\4 семестр\ТИ\Л3\TI.Laba3\obj\Debug\ReportWindow.g.cs
+C:\БГУИР\4 семестр\ТИ\Л3\TI.Laba3\obj\Debug\App.g.cs
+C:\БГУИР\4 семестр\ТИ\Л3\TI.Laba3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\БГУИР\4 семестр\ТИ\Л3\TI.Laba3\obj\Debug\TheoryOfInformation.lab3_MarkupCompile.cache
+C:\БГУИР\4 семестр\ТИ\Л3\TI.Laba3\obj\Debug\TheoryOfInformation.lab3_MarkupCompile.lref
+C:\БГУИР\4 семестр\ТИ\Л3\TI.Laba3\obj\Debug\FileWindow.baml
+C:\БГУИР\4 семестр\ТИ\Л3\TI.Laba3\obj\Debug\MainWindow.baml
+C:\БГУИР\4 семестр\ТИ\Л3\TI.Laba3\obj\Debug\TheoryOfInformation.lab3.g.resources
+C:\БГУИР\4 семестр\ТИ\Л3\TI.Laba3\obj\Debug\TheoryOfInformation.lab3.Properties.Resources.resources
+C:\БГУИР\4 семестр\ТИ\Л3\TI.Laba3\obj\Debug\TheoryOfInformation.lab3.csproj.GenerateResource.cache
+C:\БГУИР\4 семестр\ТИ\Л3\TI.Laba3\obj\Debug\TheoryOfInformation.lab3.csproj.CoreCompileInputs.cache
+C:\БГУИР\4 семестр\ТИ\Л3\TI.Laba3\obj\Debug\TheoryOfInformation.lab3.exe
+C:\БГУИР\4 семестр\ТИ\Л3\TI.Laba3\obj\Debug\TheoryOfInformation.lab3.pdb
+F:\Projects\Labs\TI\Lab3\TI.Laba3\TI.Laba3\bin\Debug\TheoryOfInformation.lab3.exe.config
+F:\Projects\Labs\TI\Lab3\TI.Laba3\TI.Laba3\bin\Debug\TheoryOfInformation.lab3.exe
+F:\Projects\Labs\TI\Lab3\TI.Laba3\TI.Laba3\bin\Debug\TheoryOfInformation.lab3.pdb
+F:\Projects\Labs\TI\Lab3\TI.Laba3\TI.Laba3\obj\Debug\TheoryOfInformation.lab3.csproj.AssemblyReference.cache
+F:\Projects\Labs\TI\Lab3\TI.Laba3\TI.Laba3\obj\Debug\ReportWindow.baml
+F:\Projects\Labs\TI\Lab3\TI.Laba3\TI.Laba3\obj\Debug\FileWindow.g.cs
+F:\Projects\Labs\TI\Lab3\TI.Laba3\TI.Laba3\obj\Debug\MainWindow.g.cs
+F:\Projects\Labs\TI\Lab3\TI.Laba3\TI.Laba3\obj\Debug\ReportWindow.g.cs
+F:\Projects\Labs\TI\Lab3\TI.Laba3\TI.Laba3\obj\Debug\App.g.cs
+F:\Projects\Labs\TI\Lab3\TI.Laba3\TI.Laba3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Projects\Labs\TI\Lab3\TI.Laba3\TI.Laba3\obj\Debug\TheoryOfInformation.lab3_MarkupCompile.cache
+F:\Projects\Labs\TI\Lab3\TI.Laba3\TI.Laba3\obj\Debug\TheoryOfInformation.lab3_MarkupCompile.lref
+F:\Projects\Labs\TI\Lab3\TI.Laba3\TI.Laba3\obj\Debug\FileWindow.baml
+F:\Projects\Labs\TI\Lab3\TI.Laba3\TI.Laba3\obj\Debug\MainWindow.baml
+F:\Projects\Labs\TI\Lab3\TI.Laba3\TI.Laba3\obj\Debug\TheoryOfInformation.lab3.g.resources
+F:\Projects\Labs\TI\Lab3\TI.Laba3\TI.Laba3\obj\Debug\TheoryOfInformation.lab3.Properties.Resources.resources
+F:\Projects\Labs\TI\Lab3\TI.Laba3\TI.Laba3\obj\Debug\TheoryOfInformation.lab3.csproj.GenerateResource.cache
+F:\Projects\Labs\TI\Lab3\TI.Laba3\TI.Laba3\obj\Debug\TheoryOfInformation.lab3.csproj.CoreCompileInputs.cache
+F:\Projects\Labs\TI\Lab3\TI.Laba3\TI.Laba3\obj\Debug\TheoryOfInformation.lab3.exe
+F:\Projects\Labs\TI\Lab3\TI.Laba3\TI.Laba3\obj\Debug\TheoryOfInformation.lab3.pdb
