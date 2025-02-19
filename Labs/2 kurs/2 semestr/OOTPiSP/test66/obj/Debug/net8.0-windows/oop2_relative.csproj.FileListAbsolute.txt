@@ -1,0 +1,16 @@
+D:\4st sem\oop\OOP projects\oop2_relative\bin\Debug\net8.0-windows\oop2_relative.exe
+D:\4st sem\oop\OOP projects\oop2_relative\bin\Debug\net8.0-windows\oop2_relative.deps.json
+D:\4st sem\oop\OOP projects\oop2_relative\bin\Debug\net8.0-windows\oop2_relative.runtimeconfig.json
+D:\4st sem\oop\OOP projects\oop2_relative\bin\Debug\net8.0-windows\oop2_relative.dll
+D:\4st sem\oop\OOP projects\oop2_relative\bin\Debug\net8.0-windows\oop2_relative.pdb
+D:\4st sem\oop\OOP projects\oop2_relative\obj\Debug\net8.0-windows\oop2.MainForm.resources
+D:\4st sem\oop\OOP projects\oop2_relative\obj\Debug\net8.0-windows\oop2_relative.csproj.GenerateResource.cache
+D:\4st sem\oop\OOP projects\oop2_relative\obj\Debug\net8.0-windows\oop2_relative.GeneratedMSBuildEditorConfig.editorconfig
+D:\4st sem\oop\OOP projects\oop2_relative\obj\Debug\net8.0-windows\oop2_relative.AssemblyInfoInputs.cache
+D:\4st sem\oop\OOP projects\oop2_relative\obj\Debug\net8.0-windows\oop2_relative.AssemblyInfo.cs
+D:\4st sem\oop\OOP projects\oop2_relative\obj\Debug\net8.0-windows\oop2_relative.csproj.CoreCompileInputs.cache
+D:\4st sem\oop\OOP projects\oop2_relative\obj\Debug\net8.0-windows\oop2_relative.dll
+D:\4st sem\oop\OOP projects\oop2_relative\obj\Debug\net8.0-windows\refint\oop2_relative.dll
+D:\4st sem\oop\OOP projects\oop2_relative\obj\Debug\net8.0-windows\oop2_relative.pdb
+D:\4st sem\oop\OOP projects\oop2_relative\obj\Debug\net8.0-windows\oop2_relative.genruntimeconfig.cache
+D:\4st sem\oop\OOP projects\oop2_relative\obj\Debug\net8.0-windows\ref\oop2_relative.dll
