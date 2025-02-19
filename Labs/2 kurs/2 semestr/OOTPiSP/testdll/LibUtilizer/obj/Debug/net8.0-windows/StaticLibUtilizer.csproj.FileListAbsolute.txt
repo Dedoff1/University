@@ -1,0 +1,40 @@
+D:\4st sem\testdll\testdll\LibUtilizer\bin\Debug\net8.0-windows\StaticLibUtilizer.exe
+D:\4st sem\testdll\testdll\LibUtilizer\bin\Debug\net8.0-windows\StaticLibUtilizer.deps.json
+D:\4st sem\testdll\testdll\LibUtilizer\bin\Debug\net8.0-windows\StaticLibUtilizer.runtimeconfig.json
+D:\4st sem\testdll\testdll\LibUtilizer\bin\Debug\net8.0-windows\StaticLibUtilizer.dll
+D:\4st sem\testdll\testdll\LibUtilizer\bin\Debug\net8.0-windows\StaticLibUtilizer.pdb
+D:\4st sem\testdll\testdll\LibUtilizer\bin\Debug\net8.0-windows\GraphicPrimitives.dll
+D:\4st sem\testdll\testdll\LibUtilizer\bin\Debug\net8.0-windows\GraphicPrimitives.pdb
+D:\4st sem\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\StaticLibUtilizer.csproj.AssemblyReference.cache
+D:\4st sem\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\LibUtilizer.MainForm.resources
+D:\4st sem\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\StaticLibUtilizer.csproj.GenerateResource.cache
+D:\4st sem\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\StaticLibUtilizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\4st sem\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\StaticLibUtilizer.AssemblyInfoInputs.cache
+D:\4st sem\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\StaticLibUtilizer.AssemblyInfo.cs
+D:\4st sem\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\StaticLibUtilizer.csproj.CoreCompileInputs.cache
+D:\4st sem\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\StaticLibUtilizer.csproj.CopyComplete
+D:\4st sem\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\StaticLibUtilizer.dll
+D:\4st sem\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\refint\StaticLibUtilizer.dll
+D:\4st sem\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\StaticLibUtilizer.pdb
+D:\4st sem\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\StaticLibUtilizer.genruntimeconfig.cache
+D:\4st sem\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\ref\StaticLibUtilizer.dll
+F:\Projects\Labs\OOTPiSP\testdll\testdll\LibUtilizer\bin\Debug\net8.0-windows\StaticLibUtilizer.exe
+F:\Projects\Labs\OOTPiSP\testdll\testdll\LibUtilizer\bin\Debug\net8.0-windows\StaticLibUtilizer.deps.json
+F:\Projects\Labs\OOTPiSP\testdll\testdll\LibUtilizer\bin\Debug\net8.0-windows\StaticLibUtilizer.runtimeconfig.json
+F:\Projects\Labs\OOTPiSP\testdll\testdll\LibUtilizer\bin\Debug\net8.0-windows\StaticLibUtilizer.dll
+F:\Projects\Labs\OOTPiSP\testdll\testdll\LibUtilizer\bin\Debug\net8.0-windows\StaticLibUtilizer.pdb
+F:\Projects\Labs\OOTPiSP\testdll\testdll\LibUtilizer\bin\Debug\net8.0-windows\GraphicPrimitives.dll
+F:\Projects\Labs\OOTPiSP\testdll\testdll\LibUtilizer\bin\Debug\net8.0-windows\GraphicPrimitives.pdb
+F:\Projects\Labs\OOTPiSP\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\StaticLibUtilizer.csproj.AssemblyReference.cache
+F:\Projects\Labs\OOTPiSP\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\LibUtilizer.MainForm.resources
+F:\Projects\Labs\OOTPiSP\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\StaticLibUtilizer.csproj.GenerateResource.cache
+F:\Projects\Labs\OOTPiSP\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\StaticLibUtilizer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Labs\OOTPiSP\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\StaticLibUtilizer.AssemblyInfoInputs.cache
+F:\Projects\Labs\OOTPiSP\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\StaticLibUtilizer.AssemblyInfo.cs
+F:\Projects\Labs\OOTPiSP\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\StaticLibUtilizer.csproj.CoreCompileInputs.cache
+F:\Projects\Labs\OOTPiSP\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\StaticLi.C8BA3B3B.Up2Date
+F:\Projects\Labs\OOTPiSP\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\StaticLibUtilizer.dll
+F:\Projects\Labs\OOTPiSP\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\refint\StaticLibUtilizer.dll
+F:\Projects\Labs\OOTPiSP\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\StaticLibUtilizer.pdb
+F:\Projects\Labs\OOTPiSP\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\StaticLibUtilizer.genruntimeconfig.cache
+F:\Projects\Labs\OOTPiSP\testdll\testdll\LibUtilizer\obj\Debug\net8.0-windows\ref\StaticLibUtilizer.dll

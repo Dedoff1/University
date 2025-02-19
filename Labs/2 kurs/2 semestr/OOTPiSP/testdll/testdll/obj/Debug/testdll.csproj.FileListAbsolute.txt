@@ -1,0 +1,2 @@
+D:\4st sem\testdll\testdll\testdll\obj\Debug\testdll.csproj.AssemblyReference.cache
+D:\4st sem\testdll\testdll\testdll\obj\Debug\testdll.csproj.CoreCompileInputs.cache
