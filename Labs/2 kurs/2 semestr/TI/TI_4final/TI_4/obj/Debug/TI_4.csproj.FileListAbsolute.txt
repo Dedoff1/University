@@ -1,0 +1,60 @@
+D:\TI_4\TI_4\bin\Debug\TI_4.exe.config
+D:\TI_4\TI_4\bin\Debug\TI_4.exe
+D:\TI_4\TI_4\bin\Debug\TI_4.pdb
+D:\TI_4\TI_4\obj\Debug\TI_4.csproj.AssemblyReference.cache
+D:\TI_4\TI_4\obj\Debug\TI_4.MainForm.resources
+D:\TI_4\TI_4\obj\Debug\TI_4.Properties.Resources.resources
+D:\TI_4\TI_4\obj\Debug\TI_4.csproj.GenerateResource.cache
+D:\TI_4\TI_4\obj\Debug\TI_4.csproj.CoreCompileInputs.cache
+D:\TI_4\TI_4\obj\Debug\TI_4.exe
+D:\TI_4\TI_4\obj\Debug\TI_4.pdb
+C:\Users\Аndrew Kardychka\Desktop\TI_4\TI_4\bin\Debug\TI_4.exe.config
+C:\Users\Аndrew Kardychka\Desktop\TI_4\TI_4\bin\Debug\TI_4.exe
+C:\Users\Аndrew Kardychka\Desktop\TI_4\TI_4\bin\Debug\TI_4.pdb
+C:\Users\Аndrew Kardychka\Desktop\TI_4\TI_4\obj\Debug\TI_4.csproj.AssemblyReference.cache
+C:\Users\Аndrew Kardychka\Desktop\TI_4\TI_4\obj\Debug\TI_4.MainForm.resources
+C:\Users\Аndrew Kardychka\Desktop\TI_4\TI_4\obj\Debug\TI_4.Properties.Resources.resources
+C:\Users\Аndrew Kardychka\Desktop\TI_4\TI_4\obj\Debug\TI_4.csproj.GenerateResource.cache
+C:\Users\Аndrew Kardychka\Desktop\TI_4\TI_4\obj\Debug\TI_4.csproj.CoreCompileInputs.cache
+C:\Users\Аndrew Kardychka\Desktop\TI_4\TI_4\obj\Debug\TI_4.exe
+C:\Users\Аndrew Kardychka\Desktop\TI_4\TI_4\obj\Debug\TI_4.pdb
+C:\БГУИР\4 семестр\ТИ\Л4\TI_4\TI_4\bin\Debug\TI_4.exe.config
+C:\БГУИР\4 семестр\ТИ\Л4\TI_4\TI_4\bin\Debug\TI_4.exe
+C:\БГУИР\4 семестр\ТИ\Л4\TI_4\TI_4\bin\Debug\TI_4.pdb
+C:\БГУИР\4 семестр\ТИ\Л4\TI_4\TI_4\obj\Debug\TI_4.csproj.AssemblyReference.cache
+C:\БГУИР\4 семестр\ТИ\Л4\TI_4\TI_4\obj\Debug\TI_4.MainForm.resources
+C:\БГУИР\4 семестр\ТИ\Л4\TI_4\TI_4\obj\Debug\TI_4.Properties.Resources.resources
+C:\БГУИР\4 семестр\ТИ\Л4\TI_4\TI_4\obj\Debug\TI_4.csproj.GenerateResource.cache
+C:\БГУИР\4 семестр\ТИ\Л4\TI_4\TI_4\obj\Debug\TI_4.csproj.CoreCompileInputs.cache
+C:\БГУИР\4 семестр\ТИ\Л4\TI_4\TI_4\obj\Debug\TI_4.exe
+C:\БГУИР\4 семестр\ТИ\Л4\TI_4\TI_4\obj\Debug\TI_4.pdb
+C:\БГУИР\4 семестр\ТИ\Л4\TI_4 —sdaval — копия\TI_4\bin\Debug\TI_4.exe.config
+C:\БГУИР\4 семестр\ТИ\Л4\TI_4 —sdaval — копия\TI_4\bin\Debug\TI_4.exe
+C:\БГУИР\4 семестр\ТИ\Л4\TI_4 —sdaval — копия\TI_4\bin\Debug\TI_4.pdb
+C:\БГУИР\4 семестр\ТИ\Л4\TI_4 —sdaval — копия\TI_4\obj\Debug\TI_4.csproj.AssemblyReference.cache
+C:\БГУИР\4 семестр\ТИ\Л4\TI_4 —sdaval — копия\TI_4\obj\Debug\TI_4.MainForm.resources
+C:\БГУИР\4 семестр\ТИ\Л4\TI_4 —sdaval — копия\TI_4\obj\Debug\TI_4.Properties.Resources.resources
+C:\БГУИР\4 семестр\ТИ\Л4\TI_4 —sdaval — копия\TI_4\obj\Debug\TI_4.csproj.GenerateResource.cache
+C:\БГУИР\4 семестр\ТИ\Л4\TI_4 —sdaval — копия\TI_4\obj\Debug\TI_4.csproj.CoreCompileInputs.cache
+C:\БГУИР\4 семестр\ТИ\Л4\TI_4 —sdaval — копия\TI_4\obj\Debug\TI_4.exe
+C:\БГУИР\4 семестр\ТИ\Л4\TI_4 —sdaval — копия\TI_4\obj\Debug\TI_4.pdb
+F:\Projects\Labs\TI\Lab4\TI_4 —sdaval — копия\TI_4 —sdaval — копия\TI_4\bin\Debug\TI_4.exe.config
+F:\Projects\Labs\TI\Lab4\TI_4 —sdaval — копия\TI_4 —sdaval — копия\TI_4\bin\Debug\TI_4.exe
+F:\Projects\Labs\TI\Lab4\TI_4 —sdaval — копия\TI_4 —sdaval — копия\TI_4\bin\Debug\TI_4.pdb
+F:\Projects\Labs\TI\Lab4\TI_4 —sdaval — копия\TI_4 —sdaval — копия\TI_4\obj\Debug\TI_4.csproj.AssemblyReference.cache
+F:\Projects\Labs\TI\Lab4\TI_4 —sdaval — копия\TI_4 —sdaval — копия\TI_4\obj\Debug\TI_4.MainForm.resources
+F:\Projects\Labs\TI\Lab4\TI_4 —sdaval — копия\TI_4 —sdaval — копия\TI_4\obj\Debug\TI_4.Properties.Resources.resources
+F:\Projects\Labs\TI\Lab4\TI_4 —sdaval — копия\TI_4 —sdaval — копия\TI_4\obj\Debug\TI_4.csproj.GenerateResource.cache
+F:\Projects\Labs\TI\Lab4\TI_4 —sdaval — копия\TI_4 —sdaval — копия\TI_4\obj\Debug\TI_4.csproj.CoreCompileInputs.cache
+F:\Projects\Labs\TI\Lab4\TI_4 —sdaval — копия\TI_4 —sdaval — копия\TI_4\obj\Debug\TI_4.exe
+F:\Projects\Labs\TI\Lab4\TI_4 —sdaval — копия\TI_4 —sdaval — копия\TI_4\obj\Debug\TI_4.pdb
+F:\Projects\Labs\TI\Lab4\TI_4 —sdaval — копия\TI_4 —sdaval — копия — копия\TI_4\bin\Debug\TI_4.exe.config
+F:\Projects\Labs\TI\Lab4\TI_4 —sdaval — копия\TI_4 —sdaval — копия — копия\TI_4\bin\Debug\TI_4.exe
+F:\Projects\Labs\TI\Lab4\TI_4 —sdaval — копия\TI_4 —sdaval — копия — копия\TI_4\bin\Debug\TI_4.pdb
+F:\Projects\Labs\TI\Lab4\TI_4 —sdaval — копия\TI_4 —sdaval — копия — копия\TI_4\obj\Debug\TI_4.csproj.AssemblyReference.cache
+F:\Projects\Labs\TI\Lab4\TI_4 —sdaval — копия\TI_4 —sdaval — копия — копия\TI_4\obj\Debug\TI_4.MainForm.resources
+F:\Projects\Labs\TI\Lab4\TI_4 —sdaval — копия\TI_4 —sdaval — копия — копия\TI_4\obj\Debug\TI_4.Properties.Resources.resources
+F:\Projects\Labs\TI\Lab4\TI_4 —sdaval — копия\TI_4 —sdaval — копия — копия\TI_4\obj\Debug\TI_4.csproj.GenerateResource.cache
+F:\Projects\Labs\TI\Lab4\TI_4 —sdaval — копия\TI_4 —sdaval — копия — копия\TI_4\obj\Debug\TI_4.csproj.CoreCompileInputs.cache
+F:\Projects\Labs\TI\Lab4\TI_4 —sdaval — копия\TI_4 —sdaval — копия — копия\TI_4\obj\Debug\TI_4.exe
+F:\Projects\Labs\TI\Lab4\TI_4 —sdaval — копия\TI_4 —sdaval — копия — копия\TI_4\obj\Debug\TI_4.pdb
