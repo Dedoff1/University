@@ -1,0 +1,16 @@
+D:\4st sem\oop\OOP projects\oop3 - Copy\bin\Debug\net8.0-windows\oop3rm.exe
+D:\4st sem\oop\OOP projects\oop3 - Copy\bin\Debug\net8.0-windows\oop3rm.deps.json
+D:\4st sem\oop\OOP projects\oop3 - Copy\bin\Debug\net8.0-windows\oop3rm.runtimeconfig.json
+D:\4st sem\oop\OOP projects\oop3 - Copy\bin\Debug\net8.0-windows\oop3rm.dll
+D:\4st sem\oop\OOP projects\oop3 - Copy\bin\Debug\net8.0-windows\oop3rm.pdb
+D:\4st sem\oop\OOP projects\oop3 - Copy\obj\Debug\net8.0-windows\oop2.MainForm.resources
+D:\4st sem\oop\OOP projects\oop3 - Copy\obj\Debug\net8.0-windows\oop3rm.csproj.GenerateResource.cache
+D:\4st sem\oop\OOP projects\oop3 - Copy\obj\Debug\net8.0-windows\oop3rm.GeneratedMSBuildEditorConfig.editorconfig
+D:\4st sem\oop\OOP projects\oop3 - Copy\obj\Debug\net8.0-windows\oop3rm.AssemblyInfoInputs.cache
+D:\4st sem\oop\OOP projects\oop3 - Copy\obj\Debug\net8.0-windows\oop3rm.AssemblyInfo.cs
+D:\4st sem\oop\OOP projects\oop3 - Copy\obj\Debug\net8.0-windows\oop3rm.csproj.CoreCompileInputs.cache
+D:\4st sem\oop\OOP projects\oop3 - Copy\obj\Debug\net8.0-windows\oop3rm.dll
+D:\4st sem\oop\OOP projects\oop3 - Copy\obj\Debug\net8.0-windows\refint\oop3rm.dll
+D:\4st sem\oop\OOP projects\oop3 - Copy\obj\Debug\net8.0-windows\oop3rm.pdb
+D:\4st sem\oop\OOP projects\oop3 - Copy\obj\Debug\net8.0-windows\oop3rm.genruntimeconfig.cache
+D:\4st sem\oop\OOP projects\oop3 - Copy\obj\Debug\net8.0-windows\ref\oop3rm.dll

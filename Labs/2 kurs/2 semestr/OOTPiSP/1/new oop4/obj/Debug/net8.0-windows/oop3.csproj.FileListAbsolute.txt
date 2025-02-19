@@ -1,0 +1,16 @@
+D:\4st sem\oop\OOP projects\oop3\bin\Debug\net8.0-windows\oop3.exe
+D:\4st sem\oop\OOP projects\oop3\bin\Debug\net8.0-windows\oop3.deps.json
+D:\4st sem\oop\OOP projects\oop3\bin\Debug\net8.0-windows\oop3.runtimeconfig.json
+D:\4st sem\oop\OOP projects\oop3\bin\Debug\net8.0-windows\oop3.dll
+D:\4st sem\oop\OOP projects\oop3\bin\Debug\net8.0-windows\oop3.pdb
+D:\4st sem\oop\OOP projects\oop3\obj\Debug\net8.0-windows\oop2.MainForm.resources
+D:\4st sem\oop\OOP projects\oop3\obj\Debug\net8.0-windows\oop3.csproj.GenerateResource.cache
+D:\4st sem\oop\OOP projects\oop3\obj\Debug\net8.0-windows\oop3.GeneratedMSBuildEditorConfig.editorconfig
+D:\4st sem\oop\OOP projects\oop3\obj\Debug\net8.0-windows\oop3.AssemblyInfoInputs.cache
+D:\4st sem\oop\OOP projects\oop3\obj\Debug\net8.0-windows\oop3.AssemblyInfo.cs
+D:\4st sem\oop\OOP projects\oop3\obj\Debug\net8.0-windows\oop3.csproj.CoreCompileInputs.cache
+D:\4st sem\oop\OOP projects\oop3\obj\Debug\net8.0-windows\oop3.dll
+D:\4st sem\oop\OOP projects\oop3\obj\Debug\net8.0-windows\refint\oop3.dll
+D:\4st sem\oop\OOP projects\oop3\obj\Debug\net8.0-windows\oop3.pdb
+D:\4st sem\oop\OOP projects\oop3\obj\Debug\net8.0-windows\oop3.genruntimeconfig.cache
+D:\4st sem\oop\OOP projects\oop3\obj\Debug\net8.0-windows\ref\oop3.dll

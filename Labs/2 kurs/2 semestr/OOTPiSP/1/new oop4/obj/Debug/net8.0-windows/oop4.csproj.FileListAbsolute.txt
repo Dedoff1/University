@@ -1,0 +1,48 @@
+D:\4st sem\oop\OOP projects\oop4\bin\Debug\net8.0-windows\oop4.exe
+D:\4st sem\oop\OOP projects\oop4\bin\Debug\net8.0-windows\oop4.deps.json
+D:\4st sem\oop\OOP projects\oop4\bin\Debug\net8.0-windows\oop4.runtimeconfig.json
+D:\4st sem\oop\OOP projects\oop4\bin\Debug\net8.0-windows\oop4.dll
+D:\4st sem\oop\OOP projects\oop4\bin\Debug\net8.0-windows\oop4.pdb
+D:\4st sem\oop\OOP projects\oop4\obj\Debug\net8.0-windows\oop2.MainForm.resources
+D:\4st sem\oop\OOP projects\oop4\obj\Debug\net8.0-windows\oop4.csproj.GenerateResource.cache
+D:\4st sem\oop\OOP projects\oop4\obj\Debug\net8.0-windows\oop4.GeneratedMSBuildEditorConfig.editorconfig
+D:\4st sem\oop\OOP projects\oop4\obj\Debug\net8.0-windows\oop4.AssemblyInfoInputs.cache
+D:\4st sem\oop\OOP projects\oop4\obj\Debug\net8.0-windows\oop4.AssemblyInfo.cs
+D:\4st sem\oop\OOP projects\oop4\obj\Debug\net8.0-windows\oop4.csproj.CoreCompileInputs.cache
+D:\4st sem\oop\OOP projects\oop4\obj\Debug\net8.0-windows\oop4.dll
+D:\4st sem\oop\OOP projects\oop4\obj\Debug\net8.0-windows\refint\oop4.dll
+D:\4st sem\oop\OOP projects\oop4\obj\Debug\net8.0-windows\oop4.pdb
+D:\4st sem\oop\OOP projects\oop4\obj\Debug\net8.0-windows\oop4.genruntimeconfig.cache
+D:\4st sem\oop\OOP projects\oop4\obj\Debug\net8.0-windows\ref\oop4.dll
+C:\Users\user\Desktop\oop4\bin\Debug\net8.0-windows\oop4.exe
+C:\Users\user\Desktop\oop4\bin\Debug\net8.0-windows\oop4.deps.json
+C:\Users\user\Desktop\oop4\bin\Debug\net8.0-windows\oop4.runtimeconfig.json
+C:\Users\user\Desktop\oop4\bin\Debug\net8.0-windows\oop4.dll
+C:\Users\user\Desktop\oop4\bin\Debug\net8.0-windows\oop4.pdb
+C:\Users\user\Desktop\oop4\obj\Debug\net8.0-windows\oop2.MainForm.resources
+C:\Users\user\Desktop\oop4\obj\Debug\net8.0-windows\oop4.csproj.GenerateResource.cache
+C:\Users\user\Desktop\oop4\obj\Debug\net8.0-windows\oop4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\oop4\obj\Debug\net8.0-windows\oop4.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\oop4\obj\Debug\net8.0-windows\oop4.AssemblyInfo.cs
+C:\Users\user\Desktop\oop4\obj\Debug\net8.0-windows\oop4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\oop4\obj\Debug\net8.0-windows\oop4.dll
+C:\Users\user\Desktop\oop4\obj\Debug\net8.0-windows\refint\oop4.dll
+C:\Users\user\Desktop\oop4\obj\Debug\net8.0-windows\oop4.pdb
+C:\Users\user\Desktop\oop4\obj\Debug\net8.0-windows\oop4.genruntimeconfig.cache
+C:\Users\user\Desktop\oop4\obj\Debug\net8.0-windows\ref\oop4.dll
+F:\Projects\Labs\OOTPiSP\1\new oop4\bin\Debug\net8.0-windows\oop4.exe
+F:\Projects\Labs\OOTPiSP\1\new oop4\bin\Debug\net8.0-windows\oop4.deps.json
+F:\Projects\Labs\OOTPiSP\1\new oop4\bin\Debug\net8.0-windows\oop4.runtimeconfig.json
+F:\Projects\Labs\OOTPiSP\1\new oop4\bin\Debug\net8.0-windows\oop4.dll
+F:\Projects\Labs\OOTPiSP\1\new oop4\bin\Debug\net8.0-windows\oop4.pdb
+F:\Projects\Labs\OOTPiSP\1\new oop4\obj\Debug\net8.0-windows\oop2.MainForm.resources
+F:\Projects\Labs\OOTPiSP\1\new oop4\obj\Debug\net8.0-windows\oop4.csproj.GenerateResource.cache
+F:\Projects\Labs\OOTPiSP\1\new oop4\obj\Debug\net8.0-windows\oop4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Labs\OOTPiSP\1\new oop4\obj\Debug\net8.0-windows\oop4.AssemblyInfoInputs.cache
+F:\Projects\Labs\OOTPiSP\1\new oop4\obj\Debug\net8.0-windows\oop4.AssemblyInfo.cs
+F:\Projects\Labs\OOTPiSP\1\new oop4\obj\Debug\net8.0-windows\oop4.csproj.CoreCompileInputs.cache
+F:\Projects\Labs\OOTPiSP\1\new oop4\obj\Debug\net8.0-windows\oop4.dll
+F:\Projects\Labs\OOTPiSP\1\new oop4\obj\Debug\net8.0-windows\refint\oop4.dll
+F:\Projects\Labs\OOTPiSP\1\new oop4\obj\Debug\net8.0-windows\oop4.pdb
+F:\Projects\Labs\OOTPiSP\1\new oop4\obj\Debug\net8.0-windows\oop4.genruntimeconfig.cache
+F:\Projects\Labs\OOTPiSP\1\new oop4\obj\Debug\net8.0-windows\ref\oop4.dll
