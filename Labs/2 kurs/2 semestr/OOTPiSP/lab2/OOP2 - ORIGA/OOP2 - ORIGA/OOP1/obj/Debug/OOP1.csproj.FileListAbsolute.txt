@@ -1,0 +1,117 @@
+E:\Visual\OOP1\OOP1\obj\Debug\OOP1.csproj.AssemblyReference.cache
+E:\Visual\OOP1\OOP1\obj\Debug\OOP1.Form1.resources
+E:\Visual\OOP1\OOP1\obj\Debug\OOP1.Properties.Resources.resources
+E:\Visual\OOP1\OOP1\obj\Debug\OOP1.csproj.GenerateResource.cache
+E:\Visual\OOP1\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+E:\Visual\OOP1\OOP1\bin\Debug\OOP1.exe.config
+E:\Visual\OOP1\OOP1\bin\Debug\OOP1.exe
+E:\Visual\OOP1\OOP1\bin\Debug\OOP1.pdb
+E:\Visual\OOP1\OOP1\obj\Debug\OOP1.exe
+E:\Visual\OOP1\OOP1\obj\Debug\OOP1.pdb
+C:\Users\User\Desktop\OOP1\OOP1\bin\Debug\OOP1.exe.config
+C:\Users\User\Desktop\OOP1\OOP1\bin\Debug\OOP1.exe
+C:\Users\User\Desktop\OOP1\OOP1\bin\Debug\OOP1.pdb
+C:\Users\User\Desktop\OOP1\OOP1\obj\Debug\OOP1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OOP1\OOP1\obj\Debug\OOP1.Form1.resources
+C:\Users\User\Desktop\OOP1\OOP1\obj\Debug\OOP1.Properties.Resources.resources
+C:\Users\User\Desktop\OOP1\OOP1\obj\Debug\OOP1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OOP1\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OOP1\OOP1\obj\Debug\OOP1.exe
+C:\Users\User\Desktop\OOP1\OOP1\obj\Debug\OOP1.pdb
+C:\Users\Dofax\Desktop\OOP1\OOP1\bin\Debug\OOP1.exe.config
+C:\Users\Dofax\Desktop\OOP1\OOP1\bin\Debug\OOP1.exe
+C:\Users\Dofax\Desktop\OOP1\OOP1\bin\Debug\OOP1.pdb
+C:\Users\Dofax\Desktop\OOP1\OOP1\obj\Debug\OOP1.csproj.AssemblyReference.cache
+C:\Users\Dofax\Desktop\OOP1\OOP1\obj\Debug\OOP1.Form1.resources
+C:\Users\Dofax\Desktop\OOP1\OOP1\obj\Debug\OOP1.Properties.Resources.resources
+C:\Users\Dofax\Desktop\OOP1\OOP1\obj\Debug\OOP1.csproj.GenerateResource.cache
+C:\Users\Dofax\Desktop\OOP1\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\Dofax\Desktop\OOP1\OOP1\obj\Debug\OOP1.exe
+C:\Users\Dofax\Desktop\OOP1\OOP1\obj\Debug\OOP1.pdb
+C:\Users\Dofax\Desktop\OOP1 (2)\OOP1\bin\Debug\OOP1.exe.config
+C:\Users\Dofax\Desktop\OOP1 (2)\OOP1\bin\Debug\OOP1.exe
+C:\Users\Dofax\Desktop\OOP1 (2)\OOP1\bin\Debug\OOP1.pdb
+C:\Users\Dofax\Desktop\OOP1 (2)\OOP1\obj\Debug\OOP1.csproj.AssemblyReference.cache
+C:\Users\Dofax\Desktop\OOP1 (2)\OOP1\obj\Debug\OOP1.Form1.resources
+C:\Users\Dofax\Desktop\OOP1 (2)\OOP1\obj\Debug\OOP1.Properties.Resources.resources
+C:\Users\Dofax\Desktop\OOP1 (2)\OOP1\obj\Debug\OOP1.csproj.GenerateResource.cache
+C:\Users\Dofax\Desktop\OOP1 (2)\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\Dofax\Desktop\OOP1 (2)\OOP1\obj\Debug\OOP1.exe
+C:\Users\Dofax\Desktop\OOP1 (2)\OOP1\obj\Debug\OOP1.pdb
+C:\Users\Dofax\Desktop\OOP2 - ORIGA\OOP1\bin\Debug\OOP1.exe.config
+C:\Users\Dofax\Desktop\OOP2 - ORIGA\OOP1\bin\Debug\OOP1.exe
+C:\Users\Dofax\Desktop\OOP2 - ORIGA\OOP1\bin\Debug\OOP1.pdb
+C:\Users\Dofax\Desktop\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.csproj.AssemblyReference.cache
+C:\Users\Dofax\Desktop\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.Form1.resources
+C:\Users\Dofax\Desktop\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.Properties.Resources.resources
+C:\Users\Dofax\Desktop\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.csproj.GenerateResource.cache
+C:\Users\Dofax\Desktop\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\Dofax\Desktop\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.exe
+C:\Users\Dofax\Desktop\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.pdb
+C:\Users\Dofax\Desktop\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.ManageFiguresDialog.resources
+C:\Users\User\Desktop\OOP2 - 455\OOP2 - ORIGA\OOP1\bin\Debug\OOP1.exe.config
+C:\Users\User\Desktop\OOP2 - 455\OOP2 - ORIGA\OOP1\bin\Debug\OOP1.exe
+C:\Users\User\Desktop\OOP2 - 455\OOP2 - ORIGA\OOP1\bin\Debug\OOP1.pdb
+C:\Users\User\Desktop\OOP2 - 455\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OOP2 - 455\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.Form1.resources
+C:\Users\User\Desktop\OOP2 - 455\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.ManageFiguresDialog.resources
+C:\Users\User\Desktop\OOP2 - 455\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.Properties.Resources.resources
+C:\Users\User\Desktop\OOP2 - 455\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OOP2 - 455\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OOP2 - 455\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.exe
+C:\Users\User\Desktop\OOP2 - 455\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.pdb
+C:\Users\Dofax\Desktop\OOP2 конец\OOP2 - ORIGA\OOP1\bin\Debug\OOP1.exe.config
+C:\Users\Dofax\Desktop\OOP2 конец\OOP2 - ORIGA\OOP1\bin\Debug\OOP1.exe
+C:\Users\Dofax\Desktop\OOP2 конец\OOP2 - ORIGA\OOP1\bin\Debug\OOP1.pdb
+C:\Users\Dofax\Desktop\OOP2 конец\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.csproj.AssemblyReference.cache
+C:\Users\Dofax\Desktop\OOP2 конец\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.Form1.resources
+C:\Users\Dofax\Desktop\OOP2 конец\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.ManageFiguresDialog.resources
+C:\Users\Dofax\Desktop\OOP2 конец\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.Properties.Resources.resources
+C:\Users\Dofax\Desktop\OOP2 конец\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.csproj.GenerateResource.cache
+C:\Users\Dofax\Desktop\OOP2 конец\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\Dofax\Desktop\OOP2 конец\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.exe
+C:\Users\Dofax\Desktop\OOP2 конец\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.pdb
+C:\Users\User\Desktop\OOP2 конец\OOP2 конец\OOP2 - ORIGA\OOP1\bin\Debug\OOP1.exe.config
+C:\Users\User\Desktop\OOP2 конец\OOP2 конец\OOP2 - ORIGA\OOP1\bin\Debug\OOP1.exe
+C:\Users\User\Desktop\OOP2 конец\OOP2 конец\OOP2 - ORIGA\OOP1\bin\Debug\OOP1.pdb
+C:\Users\User\Desktop\OOP2 конец\OOP2 конец\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OOP2 конец\OOP2 конец\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.Form1.resources
+C:\Users\User\Desktop\OOP2 конец\OOP2 конец\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.ManageFiguresDialog.resources
+C:\Users\User\Desktop\OOP2 конец\OOP2 конец\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.Properties.Resources.resources
+C:\Users\User\Desktop\OOP2 конец\OOP2 конец\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OOP2 конец\OOP2 конец\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OOP2 конец\OOP2 конец\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.exe
+C:\Users\User\Desktop\OOP2 конец\OOP2 конец\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.pdb
+C:\Users\Татьяна\Downloads\Новая папка\OOP2 - ORIGA\OOP1\bin\Debug\OOP1.exe.config
+C:\Users\Татьяна\Downloads\Новая папка\OOP2 - ORIGA\OOP1\bin\Debug\OOP1.exe
+C:\Users\Татьяна\Downloads\Новая папка\OOP2 - ORIGA\OOP1\bin\Debug\OOP1.pdb
+C:\Users\Татьяна\Downloads\Новая папка\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.csprojAssemblyReference.cache
+C:\Users\Татьяна\Downloads\Новая папка\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.Form1.resources
+C:\Users\Татьяна\Downloads\Новая папка\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.ManageFiguresDialog.resources
+C:\Users\Татьяна\Downloads\Новая папка\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.Properties.Resources.resources
+C:\Users\Татьяна\Downloads\Новая папка\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.csproj.GenerateResource.cache
+C:\Users\Татьяна\Downloads\Новая папка\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Downloads\Новая папка\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.exe
+C:\Users\Татьяна\Downloads\Новая папка\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.pdb
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\OOP2 - ORIGA\OOP1\bin\Debug\OOP1.exe.config
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\OOP2 - ORIGA\OOP1\bin\Debug\OOP1.exe
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\OOP2 - ORIGA\OOP1\bin\Debug\OOP1.pdb
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.csproj.AssemblyReference.cache
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.Form1.resources
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.ManageFiguresDialog.resources
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.Properties.Resources.resources
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.csproj.GenerateResource.cache
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.exe
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.pdb
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\OOP2 - ORIGA\OOP1\bin\Debug\OOP1.exe.config
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\OOP2 - ORIGA\OOP1\bin\Debug\OOP1.exe
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\OOP2 - ORIGA\OOP1\bin\Debug\OOP1.pdb
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.csprojAssemblyReference.cache
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.Form1.resources
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.ManageFiguresDialog.resources
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.Properties.Resources.resources
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.csproj.GenerateResource.cache
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.exe
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\OOP2 - ORIGA\OOP1\obj\Debug\OOP1.pdb
