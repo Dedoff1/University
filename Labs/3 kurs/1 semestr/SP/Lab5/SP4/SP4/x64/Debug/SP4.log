@@ -1,0 +1,14 @@
+﻿  Form.cpp
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab5\SP4\SP4\dll4.h(14,38): warning C4190: для "Repeat" задана С-связывание, но возвращаемый тип UDT "std::vector<void *,std::allocator<void *>>" несовместим с языком Си
+  (компиляция исходного файла "Form.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(429,7):
+       см. объявление "std::vector<void *,std::allocator<void *>>"
+  
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab5\SP4\SP4\dll4.h(16,38): warning C4190: для "Search" задана С-связывание, но возвращаемый тип UDT "std::vector<void *,std::allocator<void *>>" несовместим с языком Си
+  (компиляция исходного файла "Form.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(429,7):
+       см. объявление "std::vector<void *,std::allocator<void *>>"
+  
+  SP4.cpp
+  Создание кода...
+  SP4.vcxproj -> D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab5\SP4\x64\Debug\SP4.exe
