@@ -1,0 +1,14 @@
+F:\Projects\Labs\KSIS\Lab_2\client3\bin\Debug\net6.0\client3.exe
+F:\Projects\Labs\KSIS\Lab_2\client3\bin\Debug\net6.0\client3.deps.json
+F:\Projects\Labs\KSIS\Lab_2\client3\bin\Debug\net6.0\client3.runtimeconfig.json
+F:\Projects\Labs\KSIS\Lab_2\client3\bin\Debug\net6.0\client3.dll
+F:\Projects\Labs\KSIS\Lab_2\client3\bin\Debug\net6.0\client3.pdb
+F:\Projects\Labs\KSIS\Lab_2\client3\obj\Debug\net6.0\client3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Labs\KSIS\Lab_2\client3\obj\Debug\net6.0\client3.AssemblyInfoInputs.cache
+F:\Projects\Labs\KSIS\Lab_2\client3\obj\Debug\net6.0\client3.AssemblyInfo.cs
+F:\Projects\Labs\KSIS\Lab_2\client3\obj\Debug\net6.0\client3.csproj.CoreCompileInputs.cache
+F:\Projects\Labs\KSIS\Lab_2\client3\obj\Debug\net6.0\client3.dll
+F:\Projects\Labs\KSIS\Lab_2\client3\obj\Debug\net6.0\refint\client3.dll
+F:\Projects\Labs\KSIS\Lab_2\client3\obj\Debug\net6.0\client3.pdb
+F:\Projects\Labs\KSIS\Lab_2\client3\obj\Debug\net6.0\client3.genruntimeconfig.cache
+F:\Projects\Labs\KSIS\Lab_2\client3\obj\Debug\net6.0\ref\client3.dll
