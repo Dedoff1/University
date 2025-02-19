@@ -1,0 +1,17 @@
+﻿  Main.c
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab1\Lab1\Lab1\Main.c(34,24): warning C4244: -=: преобразование "float" в "LONG", возможна потеря данных
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab1\Lab1\Lab1\Main.c(35,24): warning C4244: -=: преобразование "float" в "LONG", возможна потеря данных
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab1\Lab1\Lab1\Main.c(38,45): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab1\Lab1\Lab1\Main.c(39,45): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab1\Lab1\Lab1\Main.c(41,27): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab1\Lab1\Lab1\Main.c(42,27): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab1\Lab1\Lab1\Main.c(21,30): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab1\Lab1\Lab1\Main.c(22,32): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab1\Lab1\Lab1\Main.c(22,42): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab1\Lab1\Lab1\Main.c(22,55): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab1\Lab1\Lab1\Main.c(22,65): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab1\Lab1\Lab1\Main.c(29,77): warning C4244: инициализация: преобразование "LONG" в "float", возможна потеря данных
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab1\Lab1\Lab1\Main.c(30,77): warning C4244: инициализация: преобразование "LONG" в "float", возможна потеря данных
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab1\Lab1\Lab1\Main.c(68,28): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab1\Lab1\Lab1\Main.c(161,12): warning C4028: формальный параметр 3 отличается от объявления
+  Lab1.vcxproj -> D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab1\Lab1\x64\Debug\Lab1.exe
