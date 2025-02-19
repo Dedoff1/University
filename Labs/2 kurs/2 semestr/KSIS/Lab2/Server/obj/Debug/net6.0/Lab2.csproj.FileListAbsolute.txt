@@ -1,0 +1,14 @@
+F:\Projects\Labs\KSIS\Lab2\Server\bin\Debug\net6.0\Lab2.exe
+F:\Projects\Labs\KSIS\Lab2\Server\bin\Debug\net6.0\Lab2.deps.json
+F:\Projects\Labs\KSIS\Lab2\Server\bin\Debug\net6.0\Lab2.runtimeconfig.json
+F:\Projects\Labs\KSIS\Lab2\Server\bin\Debug\net6.0\Lab2.dll
+F:\Projects\Labs\KSIS\Lab2\Server\bin\Debug\net6.0\Lab2.pdb
+F:\Projects\Labs\KSIS\Lab2\Server\obj\Debug\net6.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Labs\KSIS\Lab2\Server\obj\Debug\net6.0\Lab2.AssemblyInfoInputs.cache
+F:\Projects\Labs\KSIS\Lab2\Server\obj\Debug\net6.0\Lab2.AssemblyInfo.cs
+F:\Projects\Labs\KSIS\Lab2\Server\obj\Debug\net6.0\Lab2.csproj.CoreCompileInputs.cache
+F:\Projects\Labs\KSIS\Lab2\Server\obj\Debug\net6.0\Lab2.dll
+F:\Projects\Labs\KSIS\Lab2\Server\obj\Debug\net6.0\refint\Lab2.dll
+F:\Projects\Labs\KSIS\Lab2\Server\obj\Debug\net6.0\Lab2.pdb
+F:\Projects\Labs\KSIS\Lab2\Server\obj\Debug\net6.0\Lab2.genruntimeconfig.cache
+F:\Projects\Labs\KSIS\Lab2\Server\obj\Debug\net6.0\ref\Lab2.dll
