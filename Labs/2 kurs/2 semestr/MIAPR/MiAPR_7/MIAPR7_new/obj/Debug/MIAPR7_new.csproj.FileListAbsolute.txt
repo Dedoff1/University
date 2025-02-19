@@ -1,0 +1,68 @@
+C:\Users\Hp\Desktop\учеба\МИАПР\MIAPR7_new\MIAPR7_new\bin\Debug\MIAPR7_new.exe.config
+C:\Users\Hp\Desktop\учеба\МИАПР\MIAPR7_new\MIAPR7_new\bin\Debug\MIAPR7_new.exe
+C:\Users\Hp\Desktop\учеба\МИАПР\MIAPR7_new\MIAPR7_new\bin\Debug\MIAPR7_new.pdb
+C:\Users\Hp\Desktop\учеба\МИАПР\MIAPR7_new\MIAPR7_new\obj\Debug\MIAPR7_new.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\учеба\МИАПР\MIAPR7_new\MIAPR7_new\obj\Debug\MIAPR7_new.Form1.resources
+C:\Users\Hp\Desktop\учеба\МИАПР\MIAPR7_new\MIAPR7_new\obj\Debug\MIAPR7_new.Properties.Resources.resources
+C:\Users\Hp\Desktop\учеба\МИАПР\MIAPR7_new\MIAPR7_new\obj\Debug\MIAPR7_new.csproj.GenerateResource.Cache
+C:\Users\Hp\Desktop\учеба\МИАПР\MIAPR7_new\MIAPR7_new\obj\Debug\MIAPR7_new.exe
+C:\Users\Hp\Desktop\учеба\МИАПР\MIAPR7_new\MIAPR7_new\obj\Debug\MIAPR7_new.pdb
+F:\Лабы\МиАПР\MiAPR_7\MIAPR7_new\bin\Debug\MIAPR7_new.exe.config
+F:\Лабы\МиАПР\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.exe
+F:\Лабы\МиАПР\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.pdb
+F:\Лабы\МиАПР\MiAPR_7\MIAPR7_new\bin\Debug\MIAPR7_new.exe
+F:\Лабы\МиАПР\MiAPR_7\MIAPR7_new\bin\Debug\MIAPR7_new.pdb
+F:\Лабы\МиАПР\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.csprojResolveAssemblyReference.cache
+F:\Лабы\МиАПР\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.Properties.Resources.resources
+F:\Лабы\МиАПР\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.csproj.GenerateResource.Cache
+F:\Лабы\МиАПР\MiAPR_7\MIAPR7_new\obj\Debug\MiAPR_7.Form1.resources
+C:\Users\Dofax\Desktop\MiAPR_7\MIAPR7_new\bin\Debug\MIAPR7_new.exe.config
+C:\Users\Dofax\Desktop\MiAPR_7\MIAPR7_new\bin\Debug\MIAPR7_new.exe
+C:\Users\Dofax\Desktop\MiAPR_7\MIAPR7_new\bin\Debug\MIAPR7_new.pdb
+C:\Users\Dofax\Desktop\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.csproj.AssemblyReference.cache
+C:\Users\Dofax\Desktop\MiAPR_7\MIAPR7_new\obj\Debug\MiAPR_7.Form1.resources
+C:\Users\Dofax\Desktop\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.Properties.Resources.resources
+C:\Users\Dofax\Desktop\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.csproj.GenerateResource.cache
+C:\Users\Dofax\Desktop\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.csproj.CoreCompileInputs.cache
+C:\Users\Dofax\Desktop\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.exe
+C:\Users\Dofax\Desktop\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.pdb
+C:\Users\Аndrew Kardychka\Desktop\MiAPR_7\MIAPR7_new\bin\Debug\MIAPR7_new.exe.config
+C:\Users\Аndrew Kardychka\Desktop\MiAPR_7\MIAPR7_new\bin\Debug\MIAPR7_new.exe
+C:\Users\Аndrew Kardychka\Desktop\MiAPR_7\MIAPR7_new\bin\Debug\MIAPR7_new.pdb
+C:\Users\Аndrew Kardychka\Desktop\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.csproj.AssemblyReference.cache
+C:\Users\Аndrew Kardychka\Desktop\MiAPR_7\MIAPR7_new\obj\Debug\MiAPR_7.Form1.resources
+C:\Users\Аndrew Kardychka\Desktop\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.Properties.Resources.resources
+C:\Users\Аndrew Kardychka\Desktop\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.csproj.GenerateResource.cache
+C:\Users\Аndrew Kardychka\Desktop\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.csproj.CoreCompileInputs.cache
+C:\Users\Аndrew Kardychka\Desktop\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.exe
+C:\Users\Аndrew Kardychka\Desktop\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.pdb
+C:\БГУИР\4 семестр\МиАПР\MiAPR_7\MIAPR7_new\bin\Debug\MIAPR7_new.exe.config
+C:\БГУИР\4 семестр\МиАПР\MiAPR_7\MIAPR7_new\bin\Debug\MIAPR7_new.exe
+C:\БГУИР\4 семестр\МиАПР\MiAPR_7\MIAPR7_new\bin\Debug\MIAPR7_new.pdb
+C:\БГУИР\4 семестр\МиАПР\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.csproj.AssemblyReference.cache
+C:\БГУИР\4 семестр\МиАПР\MiAPR_7\MIAPR7_new\obj\Debug\MiAPR_7.Form1.resources
+C:\БГУИР\4 семестр\МиАПР\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.Properties.Resources.resources
+C:\БГУИР\4 семестр\МиАПР\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.csproj.GenerateResource.cache
+C:\БГУИР\4 семестр\МиАПР\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.csproj.CoreCompileInputs.cache
+C:\БГУИР\4 семестр\МиАПР\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.exe
+C:\БГУИР\4 семестр\МиАПР\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.pdb
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\MiAPR_7\MIAPR7_new\bin\Debug\MIAPR7_new.exe.config
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\MiAPR_7\MIAPR7_new\bin\Debug\MIAPR7_new.exe
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\MiAPR_7\MIAPR7_new\bin\Debug\MIAPR7_new.pdb
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.csproj.AssemblyReference.cache
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\MiAPR_7\MIAPR7_new\obj\Debug\MiAPR_7.Form1.resources
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.Properties.Resources.resources
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.csproj.GenerateResource.cache
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.csproj.CoreCompileInputs.cache
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.exe
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.pdb
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\MiAPR_7\MIAPR7_new\bin\Debug\MIAPR7_new.exe.config
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\MiAPR_7\MIAPR7_new\bin\Debug\MIAPR7_new.exe
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\MiAPR_7\MIAPR7_new\bin\Debug\MIAPR7_new.pdb
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.csproj.AssemblyReference.cache
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\MiAPR_7\MIAPR7_new\obj\Debug\MiAPR_7.Form1.resources
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.Properties.Resources.resources
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.csproj.GenerateResource.cache
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.csproj.CoreCompileInputs.cache
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.exe
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\MiAPR_7\MIAPR7_new\obj\Debug\MIAPR7_new.pdb
