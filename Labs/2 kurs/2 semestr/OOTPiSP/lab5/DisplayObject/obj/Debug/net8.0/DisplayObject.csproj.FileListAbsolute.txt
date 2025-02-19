@@ -1,0 +1,4 @@
+F:\Projects\Labs\OOTPiSP\lab5\DisplayObject\obj\Debug\net8.0\DisplayObject.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Labs\OOTPiSP\lab5\DisplayObject\obj\Debug\net8.0\DisplayObject.AssemblyInfoInputs.cache
+F:\Projects\Labs\OOTPiSP\lab5\DisplayObject\obj\Debug\net8.0\DisplayObject.AssemblyInfo.cs
+F:\Projects\Labs\OOTPiSP\lab5\DisplayObject\obj\Debug\net8.0\DisplayObject.csproj.CoreCompileInputs.cache
