@@ -1,0 +1,51 @@
+﻿cl : командная строка  warning D9002: пропуск неизвестного параметра "/ASCII/"
+  FileName.c
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(97,37): warning C4028: формальный параметр 3 отличается от объявления
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(110,24): warning C4133: =: несовместимые типы - из "char [5]" в "LPCWSTR"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(113,12): warning C4133: функция: несовместимые типы - из "char [5]" в "LPCWSTR"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(150,13): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(352,59): warning C4047: функция: "LPDWORD" отличается по уровням косвенного обращения от "LPDWORD *"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(352,59): warning C4024: RegQueryValueExA: различные типы для формального и фактического параметров 4
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(352,70): warning C4047: функция: "LPBYTE" отличается по уровням косвенного обращения от "LPBYTE [256]"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(352,70): warning C4024: RegQueryValueExA: различные типы для формального и фактического параметров 5
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(352,76): warning C4047: функция: "LPDWORD" отличается по уровням косвенного обращения от "LPDWORD *"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(352,76): warning C4024: RegQueryValueExA: различные типы для формального и фактического параметров 6
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(353,48): warning C4133: функция: несовместимые типы - из "unsigned short *" в "LPCSTR"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(348,13): warning C4047: инициализация: "LPDWORD" отличается по уровням косвенного обращения от "unsigned long"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(350,13): warning C4047: инициализация: "LPDWORD" отличается по уровням косвенного обращения от "size_t"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(359,100): warning C4267: функция: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(400,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(409,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(427,153): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(448,59): warning C4047: функция: "LPDWORD" отличается по уровням косвенного обращения от "LPDWORD *"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(448,59): warning C4024: RegQueryValueExA: различные типы для формального и фактического параметров 4
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(448,70): warning C4047: функция: "LPBYTE" отличается по уровням косвенного обращения от "LPBYTE [256]"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(448,70): warning C4024: RegQueryValueExA: различные типы для формального и фактического параметров 5
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(448,76): warning C4047: функция: "LPDWORD" отличается по уровням косвенного обращения от "LPDWORD *"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(448,76): warning C4024: RegQueryValueExA: различные типы для формального и фактического параметров 6
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(449,59): warning C4047: функция: "DWORD" отличается по уровням косвенного обращения от "LPDWORD"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(449,59): warning C4024: GetRegTypeName: различные типы для формального и фактического параметров 1
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(449,44): warning C4133: функция: несовместимые типы - из "unsigned short *" в "LPCSTR"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(444,13): warning C4047: инициализация: "LPDWORD" отличается по уровням косвенного обращения от "unsigned long"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(446,13): warning C4047: инициализация: "LPDWORD" отличается по уровням косвенного обращения от "size_t"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(498,59): warning C4047: функция: "LPDWORD" отличается по уровням косвенного обращения от "LPDWORD *"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(498,59): warning C4024: RegQueryValueExA: различные типы для формального и фактического параметров 4
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(498,70): warning C4047: функция: "LPBYTE" отличается по уровням косвенного обращения от "LPBYTE [256]"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(498,70): warning C4024: RegQueryValueExA: различные типы для формального и фактического параметров 5
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(498,76): warning C4047: функция: "LPDWORD" отличается по уровням косвенного обращения от "LPDWORD *"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(498,76): warning C4024: RegQueryValueExA: различные типы для формального и фактического параметров 6
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(499,9): warning C4047: return: "DWORD" отличается по уровням косвенного обращения от "LPDWORD"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(494,13): warning C4047: инициализация: "LPDWORD" отличается по уровням косвенного обращения от "unsigned long"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(496,13): warning C4047: инициализация: "LPDWORD" отличается по уровням косвенного обращения от "size_t"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(508,59): warning C4047: функция: "LPDWORD" отличается по уровням косвенного обращения от "LPDWORD *"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(508,59): warning C4024: RegQueryValueExA: различные типы для формального и фактического параметров 4
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(508,70): warning C4047: функция: "LPBYTE" отличается по уровням косвенного обращения от "LPBYTE [256]"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(508,70): warning C4024: RegQueryValueExA: различные типы для формального и фактического параметров 5
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(508,76): warning C4047: функция: "LPDWORD" отличается по уровням косвенного обращения от "LPDWORD *"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(508,76): warning C4024: RegQueryValueExA: различные типы для формального и фактического параметров 6
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(509,9): warning C4047: return: "char *" отличается по уровням косвенного обращения от "LPBYTE [256]"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(504,13): warning C4047: инициализация: "LPDWORD" отличается по уровням косвенного обращения от "unsigned long"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(506,13): warning C4047: инициализация: "LPDWORD" отличается по уровням косвенного обращения от "size_t"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(509,1): warning C4172: возвращаемый адрес локальной переменной или временного : data
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\Project1\FileName.c(482,1): warning C4715: GetRegType: значение возвращается не при всех путях выполнения
+  Project1.vcxproj -> D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab3\Project1\x64\Debug\Project1.exe

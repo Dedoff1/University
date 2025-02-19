@@ -1,0 +1,9 @@
+﻿cl : командная строка  warning D9002: пропуск неизвестного параметра "/ASCII/"
+  FileName.c
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab4\Project1\Project1\FileName.c(42,37): warning C4028: формальный параметр 3 отличается от объявления
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab4\Project1\Project1\FileName.c(55,24): warning C4133: =: несовместимые типы - из "char [5]" в "LPCWSTR"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab4\Project1\Project1\FileName.c(58,12): warning C4133: функция: несовместимые типы - из "char [5]" в "LPCWSTR"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab4\Project1\Project1\FileName.c(75,47): warning C4311: приведение типов: усечение указателя из "HBRUSH" в "LONG"
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab4\Project1\Project1\FileName.c(239,9): warning C4098: GetStringsFromFile: функция типа "void", возвращающая значение
+D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab4\Project1\Project1\FileName.c(255,9): warning C4098: GetStringsFromFileForNumbers: функция типа "void", возвращающая значение
+  Project1.vcxproj -> D:\Projects\Uni\Labs\3 kurs\1 semestr\SP\Lab4\Project1\x64\Debug\Project1.exe
