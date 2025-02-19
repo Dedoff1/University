@@ -1,0 +1,12 @@
+D:\4st sem\testdll\testdll\GraphicPrimitives\bin\Debug\GraphicPrimitives.dll
+D:\4st sem\testdll\testdll\GraphicPrimitives\bin\Debug\GraphicPrimitives.pdb
+D:\4st sem\testdll\testdll\GraphicPrimitives\obj\Debug\GraphicPrimitivesLib.csproj.AssemblyReference.cache
+D:\4st sem\testdll\testdll\GraphicPrimitives\obj\Debug\GraphicPrimitivesLib.csproj.CoreCompileInputs.cache
+D:\4st sem\testdll\testdll\GraphicPrimitives\obj\Debug\GraphicPrimitives.dll
+D:\4st sem\testdll\testdll\GraphicPrimitives\obj\Debug\GraphicPrimitives.pdb
+F:\Projects\Labs\OOTPiSP\lab_5\testdll\testdll\GraphicPrimitives\bin\Debug\GraphicPrimitives.dll
+F:\Projects\Labs\OOTPiSP\lab_5\testdll\testdll\GraphicPrimitives\bin\Debug\GraphicPrimitives.pdb
+F:\Projects\Labs\OOTPiSP\lab_5\testdll\testdll\GraphicPrimitives\obj\Debug\GraphicPrimitivesLib.csproj.AssemblyReference.cache
+F:\Projects\Labs\OOTPiSP\lab_5\testdll\testdll\GraphicPrimitives\obj\Debug\GraphicPrimitivesLib.csproj.CoreCompileInputs.cache
+F:\Projects\Labs\OOTPiSP\lab_5\testdll\testdll\GraphicPrimitives\obj\Debug\GraphicPrimitives.dll
+F:\Projects\Labs\OOTPiSP\lab_5\testdll\testdll\GraphicPrimitives\obj\Debug\GraphicPrimitives.pdb
