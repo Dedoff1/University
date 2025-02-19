@@ -1,0 +1,19 @@
+E:\Универ\5 сем\МиАПР\Работы\Lab4\Lab4\bin\Debug\Lab4.exe.config
+E:\Универ\5 сем\МиАПР\Работы\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+E:\Универ\5 сем\МиАПР\Работы\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+E:\Универ\5 сем\МиАПР\Работы\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+E:\Универ\5 сем\МиАПР\Работы\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+E:\Универ\5 сем\МиАПР\Работы\Lab4\Lab4\bin\Debug\Lab4.exe
+E:\Универ\5 сем\МиАПР\Работы\Lab4\Lab4\bin\Debug\Lab4.pdb
+E:\Универ\5 сем\МиАПР\Работы\Lab4\Lab4\obj\Debug\Lab4.exe
+E:\Универ\5 сем\МиАПР\Работы\Lab4\Lab4\obj\Debug\Lab4.pdb
+F:\Projects\Labs\MIAPR\Lab4\Lab4\bin\Debug\Lab4.exe.config
+F:\Projects\Labs\MIAPR\Lab4\Lab4\bin\Debug\Lab4.exe
+F:\Projects\Labs\MIAPR\Lab4\Lab4\bin\Debug\Lab4.pdb
+F:\Projects\Labs\MIAPR\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+F:\Projects\Labs\MIAPR\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+F:\Projects\Labs\MIAPR\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+F:\Projects\Labs\MIAPR\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+F:\Projects\Labs\MIAPR\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+F:\Projects\Labs\MIAPR\Lab4\Lab4\obj\Debug\Lab4.exe
+F:\Projects\Labs\MIAPR\Lab4\Lab4\obj\Debug\Lab4.pdb
