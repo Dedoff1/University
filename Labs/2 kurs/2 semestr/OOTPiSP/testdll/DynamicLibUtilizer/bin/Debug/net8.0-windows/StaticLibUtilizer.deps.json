@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StaticLibUtilizer/1.0.0": {
+        "dependencies": {
+          "GraphicPrimitivesLib": "1.0.0"
+        },
+        "runtime": {
+          "StaticLibUtilizer.dll": {}
+        }
+      },
+      "GraphicPrimitivesLib/1.0.0": {
+        "runtime": {
+          "GraphicPrimitives.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StaticLibUtilizer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GraphicPrimitivesLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
