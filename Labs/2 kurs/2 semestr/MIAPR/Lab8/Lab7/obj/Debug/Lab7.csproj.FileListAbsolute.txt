@@ -1,0 +1,98 @@
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\bin\Debug\Lab7.exe.config
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\bin\Debug\Lab7.exe
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\bin\Debug\Lab7.pdb
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\bin\Debug\Syntax.dll
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\bin\Debug\Syntax.pdb
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\obj\Debug\Lab7.csprojResolveAssemblyReference.cache
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\obj\Debug\MainWindow.baml
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\obj\Debug\MainWindow.g.cs
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\obj\Debug\App.g.cs
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\obj\Debug\Lab7_MarkupCompile.cache
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\obj\Debug\Lab7.g.resources
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.Cache
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\obj\Debug\Lab7.exe
+E:\Универ\5 сем\МиАПР\Работы\Lab7\Lab7\obj\Debug\Lab7.pdb
+E:\Универ\5 сем\МиАПР\Работы\Lab8\Lab7\bin\Debug\Lab7.exe.config
+E:\Универ\5 сем\МиАПР\Работы\Lab8\Lab7\obj\Debug\Lab7.exe
+E:\Универ\5 сем\МиАПР\Работы\Lab8\Lab7\obj\Debug\Lab7.pdb
+E:\Универ\5 сем\МиАПР\Работы\Lab8\Lab7\obj\Debug\Lab7.csprojResolveAssemblyReference.cache
+E:\Универ\5 сем\МиАПР\Работы\Lab8\Lab7\obj\Debug\MainWindow.baml
+E:\Универ\5 сем\МиАПР\Работы\Lab8\Lab7\obj\Debug\MainWindow.g.cs
+E:\Универ\5 сем\МиАПР\Работы\Lab8\Lab7\obj\Debug\App.g.cs
+E:\Универ\5 сем\МиАПР\Работы\Lab8\Lab7\obj\Debug\Lab7_MarkupCompile.cache
+E:\Универ\5 сем\МиАПР\Работы\Lab8\Lab7\obj\Debug\Lab7.g.resources
+E:\Универ\5 сем\МиАПР\Работы\Lab8\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+E:\Универ\5 сем\МиАПР\Работы\Lab8\Lab7\obj\Debug\Lab7.csproj.GenerateResource.Cache
+E:\Универ\5 сем\МиАПР\Работы\Lab8\Lab7\bin\Debug\Lab7.exe
+E:\Универ\5 сем\МиАПР\Работы\Lab8\Lab7\bin\Debug\Lab7.pdb
+E:\Универ\5 сем\МиАПР\Работы\Lab8\Lab7\bin\Debug\Syntax.dll
+E:\Универ\5 сем\МиАПР\Работы\Lab8\Lab7\bin\Debug\Syntax.pdb
+C:\Users\Dofax\Desktop\raboty_0\Lab8\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\Dofax\Desktop\raboty_0\Lab8\Lab7\bin\Debug\Lab7.exe
+C:\Users\Dofax\Desktop\raboty_0\Lab8\Lab7\bin\Debug\Lab7.pdb
+C:\Users\Dofax\Desktop\raboty_0\Lab8\Lab7\bin\Debug\Syntax.dll
+C:\Users\Dofax\Desktop\raboty_0\Lab8\Lab7\bin\Debug\Syntax.pdb
+C:\Users\Dofax\Desktop\raboty_0\Lab8\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+C:\Users\Dofax\Desktop\raboty_0\Lab8\Lab7\obj\Debug\MainWindow.baml
+C:\Users\Dofax\Desktop\raboty_0\Lab8\Lab7\obj\Debug\MainWindow.g.cs
+C:\Users\Dofax\Desktop\raboty_0\Lab8\Lab7\obj\Debug\App.g.cs
+C:\Users\Dofax\Desktop\raboty_0\Lab8\Lab7\obj\Debug\Lab7_MarkupCompile.cache
+C:\Users\Dofax\Desktop\raboty_0\Lab8\Lab7\obj\Debug\Lab7.g.resources
+C:\Users\Dofax\Desktop\raboty_0\Lab8\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\Dofax\Desktop\raboty_0\Lab8\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+C:\Users\Dofax\Desktop\raboty_0\Lab8\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\Dofax\Desktop\raboty_0\Lab8\Lab7\obj\Debug\Lab7.csproj.Up2Date
+C:\Users\Dofax\Desktop\raboty_0\Lab8\Lab7\obj\Debug\Lab7.exe
+C:\Users\Dofax\Desktop\raboty_0\Lab8\Lab7\obj\Debug\Lab7.pdb
+C:\Users\wotbl\source\repos\Lab8\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\wotbl\source\repos\Lab8\Lab7\bin\Debug\Lab7.exe
+C:\Users\wotbl\source\repos\Lab8\Lab7\bin\Debug\Lab7.pdb
+C:\Users\wotbl\source\repos\Lab8\Lab7\bin\Debug\Syntax.dll
+C:\Users\wotbl\source\repos\Lab8\Lab7\bin\Debug\Syntax.pdb
+C:\Users\wotbl\source\repos\Lab8\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+C:\Users\wotbl\source\repos\Lab8\Lab7\obj\Debug\MainWindow.baml
+C:\Users\wotbl\source\repos\Lab8\Lab7\obj\Debug\MainWindow.g.cs
+C:\Users\wotbl\source\repos\Lab8\Lab7\obj\Debug\App.g.cs
+C:\Users\wotbl\source\repos\Lab8\Lab7\obj\Debug\Lab7_MarkupCompile.cache
+C:\Users\wotbl\source\repos\Lab8\Lab7\obj\Debug\Lab7.g.resources
+C:\Users\wotbl\source\repos\Lab8\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\wotbl\source\repos\Lab8\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+C:\Users\wotbl\source\repos\Lab8\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\wotbl\source\repos\Lab8\Lab7\obj\Debug\Lab7.csproj.CopyComplete
+C:\Users\wotbl\source\repos\Lab8\Lab7\obj\Debug\Lab7.exe
+C:\Users\wotbl\source\repos\Lab8\Lab7\obj\Debug\Lab7.pdb
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\Lab8\Lab7\bin\Debug\Lab7.exe.config
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\Lab8\Lab7\bin\Debug\Lab7.exe
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\Lab8\Lab7\bin\Debug\Lab7.pdb
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\Lab8\Lab7\bin\Debug\Syntax.dll
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\Lab8\Lab7\bin\Debug\Syntax.pdb
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\MainWindow.baml
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\MainWindow.g.cs
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\App.g.cs
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\Lab7_MarkupCompile.cache
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\Lab7.g.resources
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\Lab7.csproj.CopyComplete
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\Lab7.exe
+F:\Projects\Labs\OOTPiSP\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\Lab7.pdb
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\Lab8\Lab7\bin\Debug\Lab7.exe.config
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\Lab8\Lab7\bin\Debug\Lab7.exe
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\Lab8\Lab7\bin\Debug\Lab7.pdb
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\Lab8\Lab7\bin\Debug\Syntax.dll
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\Lab8\Lab7\bin\Debug\Syntax.pdb
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\MainWindow.baml
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\MainWindow.g.cs
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\App.g.cs
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\Lab7_MarkupCompile.cache
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\Lab7.g.resources
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\Lab7.csproj.CopyComplete
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\Lab7.exe
+F:\Projects\Labs\OOTPiSP\lab2\OOP2 - ORIGA\repos\Lab8\Lab7\obj\Debug\Lab7.pdb
