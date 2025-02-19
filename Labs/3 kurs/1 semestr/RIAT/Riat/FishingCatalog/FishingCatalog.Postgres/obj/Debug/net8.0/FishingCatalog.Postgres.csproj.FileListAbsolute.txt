@@ -1,0 +1,36 @@
+C:\BSUIR\Riat\FishingCatalog\FishingCatalog.Postgres\bin\Debug\net8.0\FishingCatalog.Postgres.deps.json
+C:\BSUIR\Riat\FishingCatalog\FishingCatalog.Postgres\bin\Debug\net8.0\FishingCatalog.Postgres.runtimeconfig.json
+C:\BSUIR\Riat\FishingCatalog\FishingCatalog.Postgres\bin\Debug\net8.0\FishingCatalog.Postgres.dll
+C:\BSUIR\Riat\FishingCatalog\FishingCatalog.Postgres\bin\Debug\net8.0\FishingCatalog.Postgres.pdb
+C:\BSUIR\Riat\FishingCatalog\FishingCatalog.Postgres\bin\Debug\net8.0\FishingCatalog.Core.dll
+C:\BSUIR\Riat\FishingCatalog\FishingCatalog.Postgres\bin\Debug\net8.0\FishingCatalog.Core.pdb
+C:\BSUIR\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\FishingCatalog.Postgres.csproj.AssemblyReference.cache
+C:\BSUIR\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\FishingCatalog.Postgres.GeneratedMSBuildEditorConfig.editorconfig
+C:\BSUIR\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\FishingCatalog.Postgres.AssemblyInfoInputs.cache
+C:\BSUIR\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\FishingCatalog.Postgres.AssemblyInfo.cs
+C:\BSUIR\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\FishingCatalog.Postgres.csproj.CoreCompileInputs.cache
+C:\BSUIR\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\FishingCatalog.Postgres.sourcelink.json
+C:\BSUIR\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\FishingCatalog.Postgres.dll
+C:\BSUIR\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\refint\FishingCatalog.Postgres.dll
+C:\BSUIR\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\FishingCatalog.Postgres.pdb
+C:\BSUIR\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\FishingCatalog.Postgres.genruntimeconfig.cache
+C:\BSUIR\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\ref\FishingCatalog.Postgres.dll
+C:\BSUIR\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\FishingC.013FC80A.Up2Date
+D:\Projects\Uni\Labs\3 kurs\1 semestr\RIAT\Riat\FishingCatalog\FishingCatalog.Postgres\bin\Debug\net8.0\FishingCatalog.Postgres.deps.json
+D:\Projects\Uni\Labs\3 kurs\1 semestr\RIAT\Riat\FishingCatalog\FishingCatalog.Postgres\bin\Debug\net8.0\FishingCatalog.Postgres.runtimeconfig.json
+D:\Projects\Uni\Labs\3 kurs\1 semestr\RIAT\Riat\FishingCatalog\FishingCatalog.Postgres\bin\Debug\net8.0\FishingCatalog.Postgres.dll
+D:\Projects\Uni\Labs\3 kurs\1 semestr\RIAT\Riat\FishingCatalog\FishingCatalog.Postgres\bin\Debug\net8.0\FishingCatalog.Postgres.pdb
+D:\Projects\Uni\Labs\3 kurs\1 semestr\RIAT\Riat\FishingCatalog\FishingCatalog.Postgres\bin\Debug\net8.0\FishingCatalog.Core.dll
+D:\Projects\Uni\Labs\3 kurs\1 semestr\RIAT\Riat\FishingCatalog\FishingCatalog.Postgres\bin\Debug\net8.0\FishingCatalog.Core.pdb
+D:\Projects\Uni\Labs\3 kurs\1 semestr\RIAT\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\FishingCatalog.Postgres.csproj.AssemblyReference.cache
+D:\Projects\Uni\Labs\3 kurs\1 semestr\RIAT\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\FishingCatalog.Postgres.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Uni\Labs\3 kurs\1 semestr\RIAT\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\FishingCatalog.Postgres.AssemblyInfoInputs.cache
+D:\Projects\Uni\Labs\3 kurs\1 semestr\RIAT\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\FishingCatalog.Postgres.AssemblyInfo.cs
+D:\Projects\Uni\Labs\3 kurs\1 semestr\RIAT\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\FishingCatalog.Postgres.csproj.CoreCompileInputs.cache
+D:\Projects\Uni\Labs\3 kurs\1 semestr\RIAT\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\FishingCatalog.Postgres.sourcelink.json
+D:\Projects\Uni\Labs\3 kurs\1 semestr\RIAT\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\FishingC.013FC80A.Up2Date
+D:\Projects\Uni\Labs\3 kurs\1 semestr\RIAT\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\FishingCatalog.Postgres.dll
+D:\Projects\Uni\Labs\3 kurs\1 semestr\RIAT\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\refint\FishingCatalog.Postgres.dll
+D:\Projects\Uni\Labs\3 kurs\1 semestr\RIAT\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\FishingCatalog.Postgres.pdb
+D:\Projects\Uni\Labs\3 kurs\1 semestr\RIAT\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\FishingCatalog.Postgres.genruntimeconfig.cache
+D:\Projects\Uni\Labs\3 kurs\1 semestr\RIAT\Riat\FishingCatalog\FishingCatalog.Postgres\obj\Debug\net8.0\ref\FishingCatalog.Postgres.dll
