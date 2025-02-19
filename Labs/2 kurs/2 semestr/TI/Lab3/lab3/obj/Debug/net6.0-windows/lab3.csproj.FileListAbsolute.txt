@@ -1,0 +1,16 @@
+F:\Projects\Labs\TI\Lab3\lab3\bin\Debug\net6.0-windows\lab3.exe
+F:\Projects\Labs\TI\Lab3\lab3\bin\Debug\net6.0-windows\lab3.deps.json
+F:\Projects\Labs\TI\Lab3\lab3\bin\Debug\net6.0-windows\lab3.runtimeconfig.json
+F:\Projects\Labs\TI\Lab3\lab3\bin\Debug\net6.0-windows\lab3.dll
+F:\Projects\Labs\TI\Lab3\lab3\bin\Debug\net6.0-windows\lab3.pdb
+F:\Projects\Labs\TI\Lab3\lab3\obj\Debug\net6.0-windows\lab3.Form1.resources
+F:\Projects\Labs\TI\Lab3\lab3\obj\Debug\net6.0-windows\lab3.csproj.GenerateResource.cache
+F:\Projects\Labs\TI\Lab3\lab3\obj\Debug\net6.0-windows\lab3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Labs\TI\Lab3\lab3\obj\Debug\net6.0-windows\lab3.AssemblyInfoInputs.cache
+F:\Projects\Labs\TI\Lab3\lab3\obj\Debug\net6.0-windows\lab3.AssemblyInfo.cs
+F:\Projects\Labs\TI\Lab3\lab3\obj\Debug\net6.0-windows\lab3.csproj.CoreCompileInputs.cache
+F:\Projects\Labs\TI\Lab3\lab3\obj\Debug\net6.0-windows\lab3.dll
+F:\Projects\Labs\TI\Lab3\lab3\obj\Debug\net6.0-windows\refint\lab3.dll
+F:\Projects\Labs\TI\Lab3\lab3\obj\Debug\net6.0-windows\lab3.pdb
+F:\Projects\Labs\TI\Lab3\lab3\obj\Debug\net6.0-windows\lab3.genruntimeconfig.cache
+F:\Projects\Labs\TI\Lab3\lab3\obj\Debug\net6.0-windows\ref\lab3.dll

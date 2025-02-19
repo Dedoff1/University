@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34729.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabTU3GUI", "LabTU3GUI.csproj", "{61B607F7-AB8B-40D1-B432-4CD4D55014B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61B607F7-AB8B-40D1-B432-4CD4D55014B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B607F7-AB8B-40D1-B432-4CD4D55014B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B607F7-AB8B-40D1-B432-4CD4D55014B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B607F7-AB8B-40D1-B432-4CD4D55014B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F79B83EB-E7EA-4521-9E5B-CC6F40EC6887}
+	EndGlobalSection
+EndGlobal
